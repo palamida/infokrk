@@ -1,0 +1,8208 @@
+[
+ {
+   "id": 1,
+   "lan": "hr",
+   "name": "Gradske zidine",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Različiti slojevi u bedemima kojima je grad opasan u cjelokupnom svome opsegu, a sačuvani su do danas, građeni su od doba Ilira do pada Venecije. Prvi spomen današnjih zidina je iz I. st. prije Krista. Posljednja važna pregradnja bedema bila je krajem XV. st. </p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "gradske-zidine.jpg",
+   "imagealt": "Gradske zidine"
+},
+ {
+   "id": 2,
+   "lan": "hr",
+   "name": "Kaštel",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Frankopanska utvrda građena od XII. do XIV. stoljeća, o čemu govore izvješća mletačkih providura. Utvrda je imala više namjena: čuvala je grad od napada s morske strane, a četverokutna kula služila je kao sudnica. Visina zidova je 9 m.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "kastel.jpg",
+   "imagealt": "Kaštel"
+},
+ {
+   "id": 3,
+   "lan": "hr",
+   "name": "Kamplin",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Ime ovog trga izvedeno je iz latinskog: campus = polje. U doba Rima, ovdje se nalazilo vježbalište u sklopu obližnjih termi. Ostaci hramskih stupova na trgu svjedoče o nekoj velikoj građevini iz doba Rima.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "kamplin.jpg",
+   "imagealt": "Kamplin"
+},
+ {
+   "id": 4,
+   "lan": "hr",
+   "name": "Kula na obali",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Šesterostrana ugaona kula srednjovjekovnog zapadnog i južnog dijela zidina. Dao ju je izgraditi knez Nikola Frankopan 1407. O tome govore natpis i grb obitelji uklesani na rimskoj steli iz stoljeća s prikazom supružnika.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "kula-na-obali.jpg",
+   "imagealt": "Kula na obali"
+},
+ {
+   "id": 5,
+   "lan": "hr",
+   "name": "Gradska vijećnica",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>U prizemlju ove kule-zgrade iz XV. st. postojala su gradska vrata. Kulu su gradili otočani bez plaćene nadnice. Na njenom istočnome zidu nalaze se grbovi dužda Augustina Barbariga. Pod njima je sat s 24 polja koji se prvi put spominje 1538.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "gradska-ura.jpg",
+   "imagealt": "Gradska vijećnica"
+},
+ {
+   "id": 6,
+   "lan": "hr",
+   "name": "Vela placa",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Jedini trg u gradu koji je uvijek čuvao značajke trga. Prvi se put spominje 1263. Šesterostrani zdenac na trgu je iz XVI. st. Pod trgom je vrlo vrijedno arheološko nalazište koje, uz ostalo, otkriva najstariji dio gradskoga bedema iz IV-III. st. prije Krista.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "vela-placa.jpg",
+   "imagealt": "Vela placa"
+},
+ {
+   "id": 7,
+   "lan": "hr",
+   "name": "Velika gradska vrata",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Nakon što je grad postao opasan zidinama, ova su vrata postala glavni ulaz u grad s morske strane, tim više što su se izvorno nalazila južnije, na završetku Dekumane, kao i sam trg. Spominju se od 1350.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "velika-vrata.jpg",
+   "imagealt": "Velika gradska vrata"
+},
+ {
+   "id": 8,
+   "lan": "hr",
+   "name": "Mala vrata",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Izvorno, nalazila su se u bedemima Biskupskoga dvora kao južni završetak karda. Ondje su, zbog udara juga i dogradnje Biskupskoga dvora prema zapadu, premještena tijekom XIV. stoljeća. Pred ovim vratima nalazio se mali mul: ulaz u grad za ribare.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 9,
+   "lan": "hr",
+   "name": "Splendiddissima",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Presjajni grad Krčana natpis je s antičkog nadgrobnog kamena iz IV.stoljeća. Kopija se nalazi na glavnog gradskom trgu Vela placa a to je ujedno i prvi pisani dokaz o postojanju grada Krka.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "splendiddissima.jpg",
+   "imagealt": "Splendiddissima"
+},
+ {
+   "id": 10,
+   "lan": "hr",
+   "name": "Rimski mozaik",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Ostaci rimskih termi nalaze se u prizemlju kuće Vasilić, u Ribarskoj ulici. Nastao je u I. stoljeću, dobro je očuvan i prikazuje morsku mitološku scenu. Središnji lik je Triton oko kojeg plešu dupini i ostala morska bića.</p>",
+   "adresa": {
+      "ulica": "Ribarska 7",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 670"
+   ],
+   "mob": [],
+   "email": [],
+   "image": "triton.jpg",
+   "imagealt": "Rimski mozaik"
+},
+ {
+   "id": 11,
+   "lan": "hr",
+   "name": "Volsonis",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Prvi otkriveni gradski bedemi. Povijesne iskopine vezane uz forum – središnji dio rimskog municipija. Pronađen je žrtvenik iz I. stoljeća p.n.e. iz kolekcije Venerinog hrama, prvi i jedini na istočnoj obali Jadrana.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "volsonis.jpg",
+   "imagealt": "Volsonis"
+},
+ {
+   "id": 12,
+   "lan": "hr",
+   "name": "Venerin hram",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Venera je rimska božica ljubavi, ljepote i braka, rođena je iz morske pjene, a po odabiru Parisa, to je naljepša božica cjelokupnog rimskog panteona.Venerinih hramova u Rimskom carstvu ima značajno manje od hramova podizanih za ostale bogove rimskog panteona, jer je odobrenje za hram morala dati sama carska obitelj. Na obali istočnog Jadrana ovo je jedini do sada pronađeni hram božici Veneri, a datira iz 1.stoljeća prije Krista.</p>",
+   "adresa": {
+      "ulica": "A. Mahnića 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 662"
+   ],
+   "mob": [],
+   "email": [
+      "info@memento-venerem.com"
+   ],
+   "webtitle": "www.memento-venerem.com",
+   "weburl": "http://www.memento-venerem.com",
+   "image": "venerin-hram.jpg",
+   "imagealt": "Venerin hram"
+},
+ {
+   "id": 13,
+   "lan": "hr",
+   "name": "Katedrala",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Prvobitno, trobrodna starokršćanska bazilika (V. st.), podignuta na ostacima rimskih termi. U katedrali se, na sjevernoj strani, nalazio baptisterij. Današnja trobrodna romanička katedrala (XII. st.) bila je više puta pregrađivana i dograđivana. Unutrašnjost drži 14 stupova, a jedan iz sjevernog reda (prvi do oltara) jedini ima vrlo rijetke simbole euharistije, na svakoj strani po dvije ptice koje jedu ribu</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "katedrala.jpg",
+   "imagealt": "Katedrala"
+},
+ {
+   "id": 14,
+   "lan": "hr",
+   "name": "Zvonik katedrale",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Katedrala dobiva zvonik u gotičkom stilu u XVI. stoljeću. Godine 1767. umjesto dotadašnjeg šiljastog vrha, gradi se barokna kupola zvonika i postavlja drveni anđeo. Današnji je anđeo od poliestera iz 1973. godine.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "zvonik.jpg",
+   "imagealt": "Zvonik katedrale"
+},
+ {
+   "id": 15,
+   "lan": "hr",
+   "name": "Crkva sv. Kvirina",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Dragocjen primjer romaničke arhitekture XII. stoljeća. Trobrodna crkva sagrađena od bijelog domaćeg kamena. Kod nas je jedina od starih crkava na katu. Bila je spojena s katedralom kao njezin matroneum - prostor iz kojeg su misu pratile žene. Posvećena je Sv. Kvirinu – zaštitniku grada Krka. Danas se u njoj nalazi vrijedna sakralna zbirka – svakako najvrijedniji je izložak oltarna pala iz 15.st. koja prikazuje motiv Marijine krunidbe.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "sv-kvirin.jpg",
+   "imagealt": "Crkva sv. Kvirina"
+},
+ {
+   "id": 16,
+   "lan": "hr",
+   "name": "Crkva Majke Božje od zdravlja",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Trobrodna romanička crkva bivšeg benediktinskog samostana iz XI. st. Izvorno posvećena sv. Mihovilu. Radi obrane grada od kolere, u XIX st. mijenja titulara. Zvonik na zapadnom pročelju iz istog je doba kad i crkva.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "sv-franjo-majkabozja-od-zdravlja.jpg",
+   "imagealt": "Crkva Majke Božje od zdravlja"
+},
+ {
+   "id": 17,
+   "lan": "hr",
+   "name": "Crkva sv. Franje",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Gotičkoga sloga iz XIII. stoljeća. Današnja sakristija bila je primarni prostor crkve. Zvonik je sagrađen kasnije, njegov gornji dio tek u XVIII. stoljeću.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "sv-franjo-majkabozja-od-zdravlja.jpg",
+   "imagealt": "Crkva sv. Franje"
+},
+ {
+   "id": 18,
+   "lan": "hr",
+   "name": "Franjevački samostan",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Franjevci se u Krku prvi put spominju 1277. Isprva, samostan je bio dio sjevernog gradskog bedema. Istočno krilo podignuto je 1910. kao sjemenište. Ovdje se čuva slika Bogorodica s djetetom, renesansnog slikara Vittorea Carpaccia.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 19,
+   "lan": "hr",
+   "name": "Sv. Dunat",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Prvorazredni spomenik sakralne hrvatske arhitekture. Riječ je o crkvici iz prve polovice XII. stoljeća četverolisnoga tlocrta. Iz njenog središnjeg četvrtastog prostora koji je nadsvođen kupolom izlaze tri apside. Neka Vas jednostavnost ne iznenadi: stojite pred iznimno značajnim nasljeđem hrvatske sakralne arhitekture, njenim svojevrsnim prototipom. Spomenik nulte kategorije.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "sv-dunat.jpg",
+   "imagealt": "Sv. Dunat"
+},
+ {
+   "id": 20,
+   "lan": "hr",
+   "name": "Sv. Krševan",
+   "kategorija": [
+      "Spomenik kulture"
+   ],
+   "content": "<p>Spomenik najviše vrijednosti datira se u XI – XII. stoljeće. Oko kružne osnove s kupolom nižu se tri polukružne apside s polukupolama. Nalazi se iznad uvale Čavlena.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "sv-krsevan.jpg",
+   "imagealt": "Sv. Krševan"
+},
+ {
+   "id": 21,
+   "lan": "hr",
+   "name": "Košljun",
+   "kategorija": [
+      "Muzej"
+   ],
+   "content": "<p>Otočić franjevaca. U ovoj su oazi mira i dobra redovnici stoljećima skupljali i sačuvali mnoge vrijedne predmete koji se danas mogu razgledati u etnografskom i sakralnom muzeju. Samostan posjeduje i bogatu knjižnicu s oko 30.000 knjiga.</p>",
+   "adresa": {
+      "ulica": "Košljun 1",
+      "zip": 51521,
+      "mjesto": "Punat"
+   },
+   "tel": [
+      "+385 51 854 017"
+   ],
+   "mob": [],
+   "fax": "+385 51 855 590",
+   "email": [
+      "fskosljun@gmail.com"
+   ],
+   "webtitle": "www.kosljun.hr",
+   "weburl": "http://www.kosljun.hr",
+   "image": "kosljun.jpg",
+   "imagealt": "Košljun"
+},
+ {
+   "id": 22,
+   "lan": "hr",
+   "name": "Crkva sv. Kvirina - Sakralna zbirka",
+   "kategorija": [
+      "Muzej"
+   ],
+   "content": "<p>Vrijedna sakralna zbirka predstavljena je u jedinstvenoj katnoj romaničkoj crkvi. Izloženi su pluteji (oltarne pregrade) s motivima križa i čempresa, drveni kip Patrona iz gotike, te svakako najvrijednija - oltarna pala iz 15.st. koja prikazuje motiv Marijine krunidbe</p>",
+   "adresa": {
+      "ulica": "Trg Sv. Kvirina",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 202"
+   ],
+   "mob": [],
+   "telfax": "+385 51 221 341",
+   "email": [
+      "zupa.krk@post.t-com.hr"
+   ],
+   "webtitle": "www.biskupijakrk.hr",
+   "weburl": "http://www.biskupijakrk.hr",
+   "image": "sv-kvirin-zbirka.jpg",
+   "imagealt": "Crkva sv. Kvirina - Sakralna zbirka"
+},
+ {
+   "id": 23,
+   "lan": "hr",
+   "name": "Zavičajna etnografska zbirka - Kornić",
+   "kategorija": [
+      "Muzej"
+   ],
+   "content": "<p>Obiteljska dvokatnica opremljena je starinskim namještajem, priborom, alatom, bačvarskom radionicom i nošnjama. Odiše ugođajem nekadašnjih vremena. Zavičajna etnografska zbirka prikazuje život Kornićara kakav je u nekim kućama postojao do konca dvadesetog stoljeća.</p>",
+   "adresa": {
+      "ulica": "Kamenica 16",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 50 93 781",
+      "+385 91 59 76 391"
+   ],
+   "email": [
+      "hkd.bradica@gmail.com"
+   ],
+   "image": "muzej-kornic.jpg",
+   "imagealt": "Zavičajna etnografska zbirka - Kornić"
+},
+ {
+   "id": 24,
+   "lan": "hr",
+   "name": "Decumanus",
+   "kategorija": [
+      "Izložbeni prostor"
+   ],
+   "content": "<p>Gradska galerija s kontinuiranim godišnjim programom</p>",
+   "adresa": {
+      "ulica": "J. J. Strossmayera bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "telfax": "+385 51 220 041",
+   "email": [
+      "kultura@gradkrk.net"
+   ],
+   "webtitle": "www.grad-krk.hr",
+   "weburl": "http://www.grad-krk.hr"
+},
+ {
+   "id": 25,
+   "lan": "hr",
+   "name": "Arca Noa",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "adresa": {
+      "ulica": "Antuna Mahnića 10",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 639"
+   ],
+   "mob": [
+      "+385 98 817 307"
+   ],
+   "email": [
+      "arcanoa@net.hr"
+   ],
+   "webtitle": "www.arcanoa.com",
+   "weburl": "http://www.arcanoa.com"
+},
+ {
+   "id": 26,
+   "lan": "hr",
+   "name": "Atelier Voyager",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "content": "<p>Izbor lampi, satova, suvenira od prirodnih materijala</p>",
+   "adresa": {
+      "ulica": "M. Gupca 11",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 632"
+   ],
+   "mob": [
+      "+385 91 321 32 24"
+   ],
+   "email": [
+      "suferate@hotmail.com"
+   ],
+   "webtitle": "www.ateliervoyager.blogspot.com",
+   "weburl": "http://www.ateliervoyager.blogspot.com"
+},
+ {
+   "id": 27,
+   "lan": "hr",
+   "name": "Domaća radinost Danica Kostelac",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "content": "<p>Ručno izrađeni nakit i suveniri</p>",
+   "adresa": {
+      "ulica": "Dr. Dinka Vitezića 16",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 28,
+   "lan": "hr",
+   "name": "Fortis",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "content": "<p>Arheološka zbirka Samblich, donirana gradu Krku, muzej i galerija. U ovoj galeriji smještenoj u dnu rimskog Karda, nasuprot katedrale, možete razgledati vrijednu arheološku zbirku te odabrati umjetničku sliku, umjetničku keramiku ili izvorne keramičke suvenire. Arheološka zbirka u privatnom vlasništvu g. Itala Samblicha sadrži predmete iz razdoblja Rimskog carstva (1-5.st.) i dio brončanih predmeta iz prapovijesnog razdoblja (8-1.st. prije Krista). Svi predmeti pronađeni su na području grada Krka, većinom u grobovima zapadno od gradskih bedema.</p>",
+   "adresa": {
+      "ulica": "Dr. D. Vitezića 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 695"
+   ],
+   "mob": [
+      "+385 98 459 886"
+   ],
+   "email": [],
+   "webtitle": "www.fortis-krk.com",
+   "weburl": "http://www.fortis-krk.com"
+},
+ {
+   "id": 29,
+   "lan": "hr",
+   "name": "Galerija Dagmar",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "content": "<p>Galerija je prepoznatljiva je po ponudi autorskih radova umjetnice Dagmar Franolić, upotpunjena radovima mlade autorice Lene Franolić. U ponudi su akvareli, ulja, grafike, fotoakvatinte, crteži, skulpture i unikatni nakit.</p>",
+   "adresa": {
+      "ulica": "Vela placa 4",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 880 500"
+   ],
+   "mob": [],
+   "email": [
+      "info@galerija-dagmar.hr"
+   ],
+   "webtitle": "www.galerija-dagmar.hr",
+   "weburl": "http://www.galerija-dagmar.hr",
+   "image": "galerija-dagmar.jpg",
+   "imagealt": "Galerija Dagmar"
+},
+ {
+   "id": 30,
+   "lan": "hr",
+   "name": "Galerija Krčanka",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 11a",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 005",
+      "+385 51 222 869"
+   ],
+   "mob": [
+      "+385 91 2222 787",
+      "+385 91 2222 869"
+   ],
+   "email": [
+      "krcanka.krk@gmail.com"
+   ],
+   "image": "krcanka.jpg",
+   "imagealt": "Galerija Krčanka"
+},
+ {
+   "id": 31,
+   "lan": "hr",
+   "name": "Galerija Micek",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 23",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": [
+      "trgovina.micek@gmail.com"
+   ]
+},
+ {
+   "id": 32,
+   "lan": "hr",
+   "name": "Galerija Stanić",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "content": "<p>Prodaja slika u rasponu od priznatih hrvatskih imena do suvenira, ogledala, lampe, keramika, suveniri s temom glagoljice.</p>",
+   "adresa": {
+      "ulica": "Vela placa 8",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 052"
+   ],
+   "mob": [],
+   "fax": "+385 51 880 725",
+   "email": [
+      "info@helena.hr"
+   ],
+   "fb": "galerijastanic",
+   "fburl": "https://www.facebook.com/galerijastanic",
+   "image": "galerija-stanic.jpg",
+   "imagealt": "Galerija Stanić"
+},
+ {
+   "id": 33,
+   "lan": "hr",
+   "name": "Maestral",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "content": "<p>Prodaja suvenira.</p>",
+   "adresa": {
+      "ulica": "A. Mahnića 19",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 569 36 27"
+   ],
+   "email": [
+      "bodul@inet.hr"
+   ],
+   "webtitle": "www.bestinkrk.com",
+   "weburl": "http://www.bestinkrk.com"
+},
+ {
+   "id": 34,
+   "lan": "hr",
+   "name": "Nanana design",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "content": "<p>Ručno rađeni nakit, slike, predmeti od keramike i suveniri.</p>",
+   "adresa": {
+      "ulica": "J. J. Strossmayera bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 1324 777"
+   ],
+   "email": [],
+   "fb": "nananadesign",
+   "fburl": "https://www.facebook.com/nananadesign"
+},
+ {
+   "id": 35,
+   "lan": "hr",
+   "name": "Poklon galerija Idea",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "adresa": {
+      "ulica": "Dr. D. Vitezića 4",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 388"
+   ],
+   "mob": [],
+   "email": [],
+   "fb": "PoklonGalerijaIDEA",
+   "fburl": "https://www.facebook.com/PoklonGalerijaIDEA"
+},
+ {
+   "id": 36,
+   "lan": "hr",
+   "name": "Pomorska zbirka Željka Skomeršića",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "content": "<p>Pomorska zbirka i izrada maketa brodova. Pored toga, gosp. Skomeršić izrađuje originalne suvenire vezane za more i brodove: polumodele brodova na dasci, ploče s mornarskim čvorovima, stilizirane jedrilice na podlozi razglednica ili nautičkih karti, brodove u boci, privjeske od konopa...</p>",
+   "adresa": {
+      "ulica": "Trg Sv. Kvirina 1a",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 932 84 99"
+   ],
+   "email": [
+      "zeljko@leut-krk.hr"
+   ],
+   "webtitle": "www.leut-krk.hr",
+   "weburl": "http://www.leut-krk.hr",
+   "image": "pomorska-zbirka.jpg",
+   "imagealt": "Pomorska zbirka Željka Skomeršića"
+},
+ {
+   "id": 37,
+   "lan": "hr",
+   "name": "Udruga Arteco Pavletić Umjetnost življenja s prirodom",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "adresa": {
+      "ulica": "Narodnog preporoda bb,",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 97 767 09 76"
+   ],
+   "email": [],
+   "webtitle": "sculpture-park-arteco.simplesite.com",
+   "weburl": "http://sculpture-park-arteco.simplesite.com"
+},
+ {
+   "id": 38,
+   "lan": "hr",
+   "name": "Viktor&Koko",
+   "kategorija": [
+      "Galerija, suvenirnica"
+   ],
+   "content": "<p>Gourmet gift shop. Trgovina hrvatskih regionalnih i otočkih delikatesa</p>",
+   "adresa": {
+      "ulica": "Biskupa Antuna Mahnića 17",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 502 90 42"
+   ],
+   "email": [
+      "iva.tabar@akson.hr"
+   ]
+},
+ {
+   "id": 39,
+   "lan": "hr",
+   "name": "Aquarium Terrarium Krk",
+   "kategorija": [
+      "Akvarij"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića 2/c",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 167"
+   ],
+   "mob": [
+      "+385 98 211 630",
+      "+385 98 247 875"
+   ],
+   "email": [
+      "siloturist@ri.t-com.hr"
+   ],
+   "webtitle": "www.aquariumkrk.com",
+   "weburl": "http://www.aquariumkrk.com"
+},
+ {
+   "id": 40,
+   "lan": "hr",
+   "name": "Tropical Aquarium Krk",
+   "kategorija": [
+      "Akvarij"
+   ],
+   "adresa": {
+      "ulica": "Matije Gupca 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 211 630",
+      "+385 98 247 875"
+   ],
+   "email": [
+      "siloturist@ri.t-com.hr"
+   ],
+   "webtitle": "www.akvarij-krk.com.hr",
+   "weburl": "http://www.akvarij-krk.com.hr"
+},
+ {
+   "id": 41,
+   "lan": "hr",
+   "name": "Bike Sport Shop Speed",
+   "kategorija": [
+      "Rent a bike",
+      "Sportska oprema / rekviziti"
+   ],
+   "content": "<p>Rent a bike, servis i trgovina bicikala</p>",
+   "adresa": {
+      "ulica": "Šet. Sv. Bernardina 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 501 71 58"
+   ],
+   "telfax": "+385 51 221 587",
+   "email": [
+      "bike.sport.shop.speed@ri.t-com.hr"
+   ],
+   "webtitle": "www.bike-speed-krk.com.hr",
+   "weburl": "http://www.bike-speed-krk.com.hr",
+   "fb": "bikespeedkrk",
+   "fburl": "https://www.facebook.com/bikespeedkrk",
+   "image": "biciklizam.jpg",
+   "imagealt": "Bike Sport Shop Speed"
+},
+ {
+   "id": 42,
+   "lan": "hr",
+   "name": "Cycling Union Krk",
+   "kategorija": [
+      "Rent a bike"
+   ],
+   "adresa": {
+      "ulica": "Omišaljska 14",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 99 6720 424"
+   ],
+   "email": [
+      "info@cyclingunionkrk.com"
+   ],
+   "webtitle": "www.cyclingunionkrk.info",
+   "weburl": "http://www.cyclingunionkrk.info",
+   "image": "biciklizam.jpg",
+   "imagealt": "Cycling Union Krk"
+},
+ {
+   "id": 43,
+   "lan": "hr",
+   "name": "Sport Dražica",
+   "kategorija": [
+      "Rent a bike"
+   ],
+   "adresa": {
+      "ulica": "Ružmarinska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 251 385"
+   ],
+   "email": []
+},
+ {
+   "id": 44,
+   "lan": "hr",
+   "name": "Bura 216 Krk",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "content": "<p>vl. Denis Stolfa</p>",
+   "adresa": {
+      "ulica": "Ivana Zajca 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 520"
+   ],
+   "mob": [
+      "+385 98 94 64 215",
+      "+385 98 940 3251"
+   ],
+   "email": [
+      "o.stolfa@gmail.com"
+   ],
+   "webtitle": "www.krkapartments.info",
+   "weburl": "http://www.krkapartments.info"
+},
+ {
+   "id": 45,
+   "lan": "hr",
+   "name": "m/b Brodica 282 Krk",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "content": "<p>vl. Nikica Depikolzvane</p>",
+   "adresa": {
+      "ulica": "Krčkih iseljenika 15",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 251 1068"
+   ],
+   "telfax": "+385 51 220 159",
+   "email": [
+      "nikica.depikolozvane@ri.t-com.hr"
+   ],
+   "webtitle": "www.depikolzvane.com",
+   "weburl": "http://www.depikolzvane.com"
+},
+ {
+   "id": 46,
+   "lan": "hr",
+   "name": "m/b Doria",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "content": "<p>vl. Marko Žilić</p>",
+   "adresa": {
+      "ulica": "Frankopanska 20",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 449"
+   ],
+   "mob": [
+      "+385 91 251 6060"
+   ],
+   "email": [
+      "marko.zilic@ri.t-com.hr"
+   ]
+},
+ {
+   "id": 47,
+   "lan": "hr",
+   "name": "m/b Eigida ",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "content": "<p>vl. Miljenko Strčić</p>",
+   "adresa": {
+      "ulica": "S. Nikolića 20",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 92 12 11 641"
+   ],
+   "telfax": "+385 51 221 083",
+   "email": [
+      "strcicp@gmail.com"
+   ],
+   "image": "mb-eigida.jpg",
+   "imagealt": "m/b Eigida "
+},
+ {
+   "id": 48,
+   "lan": "hr",
+   "name": "m/b Kapetan Nemo - m/b Mali Pin",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "content": "<p>vl. Mario Volarić</p>",
+   "adresa": {
+      "ulica": "Drage Gervaisa 8",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 571 1836"
+   ],
+   "email": [
+      "v.frane@gmail.com"
+   ],
+   "webtitle": "www.mali-pin.com",
+   "weburl": "http://www.mali-pin.com",
+   "image": "mb-mali-pin.jpg",
+   "imagealt": "m/b Kapetan Nemo - m/b Mali Pin"
+},
+ {
+   "id": 49,
+   "lan": "hr",
+   "name": "m/b Morena - m/b Tajana Krk",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "content": "<p>vl. Anton Žužić</p>",
+   "adresa": {
+      "ulica": "Lakmartinska 23",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 280"
+   ],
+   "mob": [
+      "+385 91 122 1280",
+      "+385 91 789 88 28"
+   ],
+   "email": [
+      "info@zuzic-krk.com"
+   ],
+   "webtitle": "www.zuzic-krk.com",
+   "weburl": "http://www.zuzic-krk.com",
+   "image": "mb-tajana.jpg",
+   "imagealt": "m/b Morena - m/b Tajana Krk"
+},
+ {
+   "id": 50,
+   "lan": "hr",
+   "name": "I.R.T.D.A. d.o.o. - m/b Sv. Petar i m/j Pipi – Adria Explorer",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "adresa": {
+      "ulica": "Brzac 33",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "firma": "I.R.T.D.A. d.o.o.",
+   "tel": [
+      "+385 51 862 148"
+   ],
+   "mob": [
+      "+385 91 796 46 56",
+      "+385 91 611 95 71"
+   ],
+   "telfax": "+385 51 869 289",
+   "email": [
+      "kontakt@correct-diving.com"
+   ],
+   "webtitle": "www.correct-diving.com",
+   "weburl": "http://www.correct-diving.com"
+},
+ {
+   "id": 51,
+   "lan": "hr",
+   "name": "m/b Vojga",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "content": "<p>vl. Miro Volarić</p>",
+   "adresa": {
+      "ulica": "Borik 4",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 283 257"
+   ],
+   "email": [
+      "miro.volaric@ri.t-com.hr"
+   ],
+   "image": "mb-vojga.jpg",
+   "imagealt": "m/b Vojga"
+},
+ {
+   "id": 52,
+   "lan": "hr",
+   "name": "m/b Žara",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "content": "<p>vl. Zlatko Žužić i Goran Jurešić</p>",
+   "adresa": {
+      "ulica": "Krč 40, Pinezići",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 581 86 46"
+   ],
+   "email": [
+      "zara.krk@gmail.com"
+   ],
+   "webtitle": "www.bestinkrk.com",
+   "weburl": "http://www.bestinkrk.com",
+   "image": "mb-zara.jpg",
+   "imagealt": "m/b Žara"
+},
+ {
+   "id": 53,
+   "lan": "hr",
+   "name": "m/j Otac Roko",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "content": "<p>vl. Alen Depikolzvane</p>",
+   "adresa": {
+      "ulica": "Krčkih iseljenika 9",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 788 3269"
+   ],
+   "email": [
+      "alen.depikolozvane@ri.t-com.hr",
+      "otacrokokrk@gmail.com"
+   ],
+   "webtitle": "www.otac-roko.com",
+   "weburl": "http://www.otac-roko.com",
+   "image": "mb-otac-roko.jpg",
+   "imagealt": "m/j Otac Roko"
+},
+ {
+   "id": 54,
+   "lan": "hr",
+   "name": "m/y Pipi",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "content": "<p>vl. Josip Mrakovčić</p>",
+   "adresa": {
+      "ulica": "Skrbčići 55c, Skrbčići",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 1863 073",
+      "+385 91 7964 656"
+   ],
+   "email": [
+      "info@kvarnerline.com"
+   ],
+   "webtitle": "www.kvarnerline.com",
+   "weburl": "http://www.kvarnerline.com"
+},
+ {
+   "id": 55,
+   "lan": "hr",
+   "name": "Obelix 231 KK",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "content": "<p>vl. Geza Szarka</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [
+      "+385 91 520 8003"
+   ],
+   "email": [
+      "geza@buborek.hr"
+   ],
+   "webtitle": "www.buborek.hu",
+   "weburl": "http://www.buborek.hu"
+},
+ {
+   "id": 56,
+   "lan": "hr",
+   "name": "Riba T",
+   "kategorija": [
+      "Izlet brodom"
+   ],
+   "adresa": {
+      "ulica": "Put sv. Fuske 19, Pinezići",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 863 222"
+   ],
+   "mob": [
+      "+385 91 530 16 92"
+   ],
+   "email": [
+      "anton.zuzic1@gmail.com"
+   ],
+   "webtitle": "www.diving-zuzic.com",
+   "weburl": "http://www.diving-zuzic.com"
+},
+ {
+   "id": 57,
+   "lan": "hr",
+   "name": "M/B Big Marlin ",
+   "kategorija": [
+      "Izlet polupodmornicom"
+   ],
+   "adresa": {
+      "ulica": "Lokvić 2, Pinezići",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "firma": "MARLIN TOURS D.O.O.",
+   "tel": [
+      "+385 51 863 224"
+   ],
+   "mob": [
+      "+385 91 220 0262"
+   ],
+   "email": [
+      "semisubmarine.krk@gmail.com"
+   ],
+   "webtitle": "www.semisubmarine-krk.com",
+   "weburl": "http://www.semisubmarine-krk.com",
+   "image": "semisubmarine.jpg",
+   "imagealt": "M/B Big Marlin "
+},
+ {
+   "id": 58,
+   "lan": "hr",
+   "name": "Yellow submarine",
+   "kategorija": [
+      "Izlet polupodmornicom"
+   ],
+   "adresa": {
+      "ulica": "Obala hrv. mornarice bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 59,
+   "lan": "hr",
+   "name": "CDA Krk",
+   "kategorija": [
+      "Rent a boat, Taxi boat"
+   ],
+   "adresa": {},
+   "tel": [],
+   "mob": [
+      "+385 91 585 33 94",
+      "+385 91 538 91 41"
+   ],
+   "email": [
+      "cda@hi.t-com.hr"
+   ]
+},
+ {
+   "id": 60,
+   "lan": "hr",
+   "name": "Marina",
+   "kategorija": [
+      "Rent a boat, Taxi boat"
+   ],
+   "content": "<p>vl. Boris Morožin</p>",
+   "adresa": {
+      "ulica": "Busilak 119 a, Vrh",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 33 22 22"
+   ],
+   "fax": "+385 51 Voicemail: 0049 3212 25 31 270",
+   "email": [
+      "morozin@web.de"
+   ],
+   "webtitle": "www.divetours.de",
+   "weburl": "http://www.divetours.de"
+},
+ {
+   "id": 61,
+   "lan": "hr",
+   "name": "MCP Krk d.o.o. charter i Adrenalina Ride",
+   "kategorija": [
+      "Rent a boat, Taxi boat"
+   ],
+   "adresa": {
+      "ulica": "Tina Ujevića 10",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 854 244"
+   ],
+   "mob": [
+      "+385 99 319 2700",
+      "+385 99 239 4203"
+   ],
+   "fax": "+385 51 854 244",
+   "email": [
+      "info@mcp.hr"
+   ],
+   "webtitle": "www.mcp.hr",
+   "weburl": "http://www.mcp.hr"
+},
+ {
+   "id": 62,
+   "lan": "hr",
+   "name": "Rent a boat Phoenix",
+   "kategorija": [
+      "Rent a boat, Taxi boat"
+   ],
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 63,
+   "lan": "hr",
+   "name": "Rent a jet / Rent a boat",
+   "kategorija": [
+      "Rent a boat, Taxi boat"
+   ],
+   "adresa": {
+      "ulica": "Uvala Jert, Pinezići"
+   },
+   "tel": [],
+   "mob": [
+      "+385 99 7450 737",
+      "+385 99 4551 040"
+   ],
+   "email": [
+      "jetskiberkovic@gmail.com"
+   ]
+},
+ {
+   "id": 64,
+   "lan": "hr",
+   "name": "Taxi boat",
+   "kategorija": [
+      "Rent a boat, Taxi boat"
+   ],
+   "content": "<p>vl. Ines Legac</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [
+      "+385 95 533 4302",
+      "+385 97 759 78 31"
+   ],
+   "email": []
+},
+ {
+   "id": 65,
+   "lan": "hr",
+   "name": "Vedran Kirinčić",
+   "kategorija": [
+      "Rent a boat, Taxi boat"
+   ],
+   "adresa": {},
+   "tel": [],
+   "mob": [
+      "+385 91 622 2390"
+   ],
+   "email": [
+      "rentaboatkrk1@gmail.com"
+   ]
+},
+ {
+   "id": 66,
+   "lan": "hr",
+   "name": "Bios",
+   "kategorija": [
+      "Ronilački klub"
+   ],
+   "adresa": {
+      "ulica": "Senjska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 505 3391"
+   ],
+   "email": [],
+   "image": "diving.jpg",
+   "imagealt": "Bios"
+},
+ {
+   "id": 67,
+   "lan": "hr",
+   "name": "Pine Diver",
+   "kategorija": [
+      "Ronilački klub"
+   ],
+   "adresa": {
+      "ulica": "Vršak 66, Pinezić",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 863 039"
+   ],
+   "mob": [
+      "+385 98 408 175"
+   ],
+   "email": [
+      "pine_diver@yahoo.com"
+   ],
+   "image": "diving.jpg",
+   "imagealt": "Pine Diver"
+},
+ {
+   "id": 68,
+   "lan": "hr",
+   "name": "Brodogradilište Krk d.o.o.",
+   "kategorija": [
+      "Ronilački centar"
+   ],
+   "adresa": {
+      "ulica": "Lukobran 10",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 045"
+   ],
+   "mob": [
+      "+385 91 933 48 37",
+      "+385 99 563 80 36",
+      "+385 98 327 961"
+   ],
+   "fax": "+385 51 220 126",
+   "email": [
+      "dariodminic@yahoo.com",
+      "brodogradiliste.krk@optinet.hr"
+   ],
+   "webtitle": "www.brodogradiliste-krk.hr",
+   "weburl": "http://www.brodogradiliste-krk.hr"
+},
+ {
+   "id": 69,
+   "lan": "hr",
+   "name": "I.R.T.D.A. d.o.o. - Correct Diving Krk",
+   "kategorija": [
+      "Ronilački centar"
+   ],
+   "adresa": {
+      "ulica": "Brzac 33",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "firma": "I.R.T.D.A. d.o.o.",
+   "tel": [
+      "+385 51 862 148"
+   ],
+   "mob": [
+      "+385 91 796 4656",
+      "+385 91 611 95 71"
+   ],
+   "telfax": "+385 51 869 289",
+   "email": [
+      "kontakt@correct-diving.com"
+   ],
+   "webtitle": "www.correct-diving.com",
+   "weburl": "http://www.correct-diving.com"
+},
+ {
+   "id": 70,
+   "lan": "hr",
+   "name": "Diver Krk",
+   "kategorija": [
+      "Ronilački centar"
+   ],
+   "adresa": {
+      "ulica": "Braće Juras 9",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 390"
+   ],
+   "mob": [
+      "+385 91 2222 390"
+   ],
+   "email": [
+      "info@diver-krk.hr"
+   ],
+   "webtitle": "www.diver-krk.hr",
+   "weburl": "http://www.diver-krk.hr"
+},
+ {
+   "id": 71,
+   "lan": "hr",
+   "name": "Dive Center Krk",
+   "kategorija": [
+      "Ronilački centar"
+   ],
+   "adresa": {
+      "ulica": "Dunat bb",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [
+      "+385 51 867 303"
+   ],
+   "mob": [
+      "+385 98 905 94 76"
+   ],
+   "fax": "+385 51 867 304",
+   "email": [
+      "info©dive-center-krk.de"
+   ],
+   "webtitle": "www.dive-center-krk.de",
+   "weburl": "http://www.dive-center-krk.de"
+},
+ {
+   "id": 72,
+   "lan": "hr",
+   "name": "Diving Centar Krk D.O.O. - Fun Diving Krk",
+   "kategorija": [
+      "Ronilački centar"
+   ],
+   "adresa": {
+      "ulica": "Braće Juras 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 563"
+   ],
+   "mob": [],
+   "email": [
+      "info@fundivingkrk.de"
+   ],
+   "webtitle": "www.fun-diving.com",
+   "weburl": "http://www.fun-diving.com"
+},
+ {
+   "id": 73,
+   "lan": "hr",
+   "name": "Morski Mjehurić d.o.o.",
+   "kategorija": [],
+   "adresa": {
+      "ulica": "Braće Linardića 6",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 520 8003",
+      "+385 0362 093 433 96"
+   ],
+   "email": [
+      "buborek@buborek.hu",
+      "gezabububorek@gmail.com"
+   ],
+   "webtitle": "www.buborek.hu",
+   "weburl": "http://www.buborek.hu"
+},
+ {
+   "id": 74,
+   "lan": "hr",
+   "name": "Riba T",
+   "kategorija": [
+      "Ronilački centar"
+   ],
+   "adresa": {
+      "ulica": "Put sv. Fuske 19, Pinezići",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 863 222"
+   ],
+   "mob": [
+      "+385 91 530 16 92"
+   ],
+   "email": [
+      "anton.zuzic1@gmail.com"
+   ],
+   "webtitle": "www.diving-zuzic.com",
+   "weburl": "http://www.diving-zuzic.com"
+},
+ {
+   "id": 75,
+   "lan": "hr",
+   "name": "Styria-Guenis-Diving-Center",
+   "kategorija": [
+      "Ronilački centar"
+   ],
+   "adresa": {
+      "ulica": "Dubrovačka 10, 51500 Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 91 52 109",
+      "A Mobil: 0043/664/311-60-04"
+   ],
+   "telfax": "+385 51 221 945",
+   "email": [
+      "info@styria-guenis-diving-group.com"
+   ],
+   "webtitle": "www.styria-guenis-diving-group.com",
+   "weburl": "http://www.styria-guenis-diving-group.com"
+},
+ {
+   "id": 76,
+   "lan": "hr",
+   "name": "I.R.T.D.A. d.o.o. - mare-vivum.eu",
+   "kategorija": [
+      "Centar za morsku bilogiju"
+   ],
+   "adresa": {
+      "ulica": "Brzac 33",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "firma": "I.R.T.D.A. d.o.o.",
+   "tel": [
+      "+385 51 862 148"
+   ],
+   "mob": [
+      "+385 91 796 4656",
+      "+385 91 611 95 71"
+   ],
+   "telfax": "+385 51 869 289",
+   "email": [
+      "kontakt@correct-diving.com"
+   ],
+   "webtitle": "www.correct-diving.com",
+   "weburl": "http://www.correct-diving.com"
+},
+ {
+   "id": 77,
+   "lan": "hr",
+   "name": "Camping Krk",
+   "kategorija": [
+      "Teniski teren"
+   ],
+   "content": "<p>Tenis, odbojka na pijesku, košarka, badminton, mini-golf, stolni tenis, rent –a – bike, najam kajaka, diving (škola ronjenja)</p>",
+   "adresa": {
+      "ulica": "Narodnog preporoda 80",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 351"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 246",
+   "email": [
+      "camping@valamar.com"
+   ],
+   "webtitle": "www.camping-adriatic.com",
+   "weburl": "http://www.camping-adriatic.com"
+},
+ {
+   "id": 78,
+   "lan": "hr",
+   "name": "Sport Dražica",
+   "kategorija": [
+      "Teniski teren",
+      "Rent a bike"
+   ],
+   "content": "<p>Tenis, Rent a bike</p>",
+   "adresa": {
+      "ulica": "Ružmarinska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 251 385"
+   ],
+   "email": []
+},
+ {
+   "id": 79,
+   "lan": "hr",
+   "name": "Camping Ježevac",
+   "kategorija": [
+      "Odbojka na pijesku"
+   ],
+   "adresa": {
+      "ulica": "Plaža Ježevac bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 80,
+   "lan": "hr",
+   "name": "Plaža Dunat",
+   "kategorija": [
+      "Odbojka na pijesku"
+   ],
+   "adresa": {
+      "ulica": "Dunat bb",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 81,
+   "lan": "hr",
+   "name": "Plaža Portopisana",
+   "kategorija": [
+      "Odbojka na pijesku"
+   ],
+   "adresa": {
+      "ulica": "Vrata slobode bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 82,
+   "lan": "hr",
+   "name": "Plaža Glavotok",
+   "kategorija": [
+      "Odbojka na pijesku"
+   ],
+   "adresa": {
+      "ulica": "Glavotok 4 (Camping Glavotok)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 83,
+   "lan": "hr",
+   "name": "Activity Center Krk",
+   "kategorija": [
+      "Fitnes centar"
+   ],
+   "content": "<p>Otvoreno vježbalište Dražica</p>",
+   "adresa": {
+      "ulica": "Šetalište Dražica bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": [
+      "activitieskrk@gmail.com"
+   ]
+},
+ {
+   "id": 84,
+   "lan": "hr",
+   "name": "Body Building Klub Krk",
+   "kategorija": [
+      "Fitnes centar"
+   ],
+   "adresa": {
+      "ulica": "Plavnička 24",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 252 94 65"
+   ],
+   "email": [
+      "mario.jarnecic@gmail.com"
+   ],
+   "webtitle": "www.mariojarnecic.com",
+   "weburl": "http://www.mariojarnecic.com"
+},
+ {
+   "id": 85,
+   "lan": "hr",
+   "name": "Fitness Centar Koralj",
+   "kategorija": [
+      "Fitnes centar"
+   ],
+   "content": "<p>Hotel Valamar Koralj - Fitness, yoga, bike tour, Infinity sport</p>",
+   "adresa": {
+      "ulica": "V. Tomašića 38",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 5381 042",
+      "+385 91 1721 465"
+   ],
+   "email": [
+      "infinitas.sport@gmail.com"
+   ],
+   "fb": "Fitness centar Koralj@Infinity-Sport",
+   "fburl": "https://www.facebook.com/Fitness centar Koralj@Infinity-Sport"
+},
+ {
+   "id": 86,
+   "lan": "hr",
+   "name": "A.K. Sport d.o.o.",
+   "kategorija": [
+      "Nogomet"
+   ],
+   "content": "<p>Malonogometni teren s umjetnom travom i cageball. Radno vrijeme: 10,00 – 24,00 (od 01. 06. 2018.)</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [
+      "+385 91 25 19 016"
+   ],
+   "email": [
+      "krunokrasic@yahoo.com"
+   ]
+},
+ {
+   "id": 87,
+   "lan": "hr",
+   "name": "I.R.T.D.A. d.o.o. – kajaking, streličarstvo",
+   "kategorija": [
+      "Kayak"
+   ],
+   "adresa": {
+      "ulica": "Brzac 33",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "firma": "I.R.T.D.A. d.o.o.",
+   "tel": [
+      "+385 51 862 148"
+   ],
+   "mob": [
+      "+385 91 796 4656",
+      "+385 91 611 95 71"
+   ],
+   "telfax": "+385 51 869 289",
+   "email": [
+      "kontakt@correct-diving.com"
+   ],
+   "webtitle": "www.correct-diving.com",
+   "weburl": "http://www.correct-diving.com"
+},
+ {
+   "id": 88,
+   "lan": "hr",
+   "name": "Dvori sv. Jurja",
+   "kategorija": [
+      "Paintball",
+      "Agro turizam"
+   ],
+   "content": "<p>Paintball, jahanje, posjet farmi, domaća hrana, smještaj. \nJanjetina po narudžbi, peka.</p>",
+   "adresa": {
+      "ulica": "Bok od Brozića 100, Vrh",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 505 33 91"
+   ],
+   "email": [
+      "agroturizamkrk@gmail.com",
+      "stancija.bonmartin.krk@gmail.com"
+   ],
+   "webtitle": "www.krk-agroturizam.com",
+   "weburl": "http://www.krk-agroturizam.com",
+   "image": "dvori-sv-juraj.jpg",
+   "imagealt": "Dvori sv. Jurja"
+},
+ {
+   "id": 89,
+   "lan": "hr",
+   "name": "Jedriličarski klub Plav Krk",
+   "kategorija": [
+      "Jedrenje"
+   ],
+   "content": "<p>Škola jedrenja</p>",
+   "adresa": {
+      "ulica": "Senjska 2, pp 44",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 283 251"
+   ],
+   "telfax": "+385 51 220 158",
+   "email": [
+      "jk-plav@ri.t-com.hr"
+   ],
+   "webtitle": "www.jk-plav.hr",
+   "weburl": "http://www.jk-plav.hr"
+},
+ {
+   "id": 90,
+   "lan": "hr",
+   "name": "Karting klub Krk",
+   "kategorija": [
+      "Karting"
+   ],
+   "adresa": {
+      "ulica": "Ulaz u Grad Krk – 2 km od centra"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 44 97 97"
+   ],
+   "email": [
+      "zajednicki.obrt.pavlovic@ri.t-com.hr"
+   ]
+},
+ {
+   "id": 91,
+   "lan": "hr",
+   "name": "Xena Sport",
+   "kategorija": [
+      "Kayak"
+   ],
+   "content": "<p>Obrt za sport i rekreaciju. Najam pedalina, kajaka, daski za veslanje (SUP), najam ležaljki.</p>",
+   "adresa": {
+      "ulica": "Plaža Ježevac",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 92,
+   "lan": "hr",
+   "name": "Wakeboard Centar Cable Krk ",
+   "kategorija": [
+      "Wakeboard"
+   ],
+   "content": "<p>Ako želite ugodno i zabavno provesti dan, svakako posjetite Ski lift Krk. Jedan od najnovijih i najmodernijih liftova u Europi, nalazi se u Puntarskoj uvali, na samo nekoliko kilometara od grada Krka. Uz super uzbudljiv doživljaj skijanja na vodi i wakeboardinga na suvremenom liftu, na 400 m objekta iznad mora možete jesti, piti, sunčati se, kupati, izležavati, kartati, pjevati, plesati, smijati se padačima ili uzdisati nad trikovima ridera svjetske klase koji naprosto obožavaju ovaj ski lift.</p>",
+   "adresa": {
+      "ulica": "Dunat bb",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 262 73 03"
+   ],
+   "email": [
+      "contact@wakeboarder.hr"
+   ],
+   "webtitle": "www.wakeboarder.hr",
+   "weburl": "http://www.wakeboarder.hr",
+   "image": "wakeboard.jpg",
+   "imagealt": "Wakeboard Centar Cable Krk "
+},
+ {
+   "id": 93,
+   "lan": "hr",
+   "name": "Borik",
+   "kategorija": [
+      "Javna gradska plaža"
+   ],
+   "content": "<p>Duboko i kamenito dno, betonsko sunčalište (platoi), prirodna hladovina (borova šumica), mini golf, stolni tenis, igralište za djecu.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 94,
+   "lan": "hr",
+   "name": "Dražica",
+   "kategorija": [
+      "Javna gradska plaža"
+   ],
+   "content": "<p>Plitko more i pjeskovito dno, betonsko sunčalište, šljunčane uvale i šljunčano dno, prirodna hladovina (borova šumica), lift za invalide.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "plaza-drazica.jpg",
+   "imagealt": "Dražica"
+},
+ {
+   "id": 95,
+   "lan": "hr",
+   "name": "Dunat",
+   "kategorija": [
+      "Javna gradska plaža"
+   ],
+   "content": "<p>Betonsko sunčalište, šljunčana plaža, igralište za djecu, sportski sadržaji – odbojka na pijesku, wakeboarding.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 96,
+   "lan": "hr",
+   "name": "Galapagos",
+   "kategorija": [
+      "Javna gradska plaža"
+   ],
+   "content": "<p>Duboko more i kamenito dno, šljunčana plaža, obavezan najam ležaljke, najam suncobrana.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 97,
+   "lan": "hr",
+   "name": "Glavotok",
+   "kategorija": [
+      "Javna gradska plaža"
+   ],
+   "content": "<p>Odbojka na pijesku šljunčano dno, šljunčana plaža, betonsko sunčalište, betonirani platoi, prirodna hladovina</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 98,
+   "lan": "hr",
+   "name": "Jert",
+   "kategorija": [
+      "Javna gradska plaža"
+   ],
+   "content": "<p>Šljunčana plaža, mini aquagun.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 99,
+   "lan": "hr",
+   "name": "Porporela - Ježevac",
+   "kategorija": [
+      "Javna gradska plaža"
+   ],
+   "content": "<p>Plitko more i šljunčano dno, šljunčana plaža, ulaz (kosina) u more prilagođena invalidima.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "image": "plaza-jezevac.jpg",
+   "imagealt": "Porporela - Ježevac"
+},
+ {
+   "id": 100,
+   "lan": "hr",
+   "name": "Portapisana",
+   "kategorija": [
+      "Javna gradska plaža"
+   ],
+   "content": "<p>Plitko more i pjeskovito dno, betonsko sunčalište, odbojka na pijesku, igralište za djecu.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 101,
+   "lan": "hr",
+   "name": "Punta di Galeto",
+   "kategorija": [
+      "Javna gradska plaža"
+   ],
+   "content": "<p>Duboko more i kamenito dno, betonsko sunčalište.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 102,
+   "lan": "hr",
+   "name": "Plav",
+   "kategorija": [
+      "Javna gradska plaža"
+   ],
+   "content": "<p>Duboko more i šljunčano dno, betonsko sunčalište, betonirani platoi, prirodna hladovina (borova šuma), jedriličarski klub.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 103,
+   "lan": "hr",
+   "name": "Redagara",
+   "kategorija": [
+      "Plaža za pse"
+   ],
+   "content": "<p>Ulaz besplatan, šljunčana uvala, plitko more i šljunčano dno, tuš sa špinom, Fido kanta sa vrećicama, prečka za vezanje pasa</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 104,
+   "lan": "hr",
+   "name": "Galapagos",
+   "kategorija": [
+      "Plaža za pse"
+   ],
+   "content": "<p>Duboko more i kamenito dno, šljunčana plaža, obavezan najam ležaljke, najam suncobrana.</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 105,
+   "lan": "hr",
+   "name": "Tomaževo",
+   "kategorija": [
+      "Naturistička plaža"
+   ],
+   "content": "<p>Ulaz besplatan, duboko more i kamenito dno, betonsko sunčalište, šljunčana plaža, prirodna hladovina (borova šumica).</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 106,
+   "lan": "hr",
+   "name": "Casa del Padrone",
+   "kategorija": [
+      "Lokalni proizvodi",
+      "Slastičarna"
+   ],
+   "content": "<p>Ugostiteljski objekt, proizvodnja i prodaja slastica. Torta Krčka kneginja, imbriagoni, tradicionalne slastice.</p>",
+   "adresa": {
+      "ulica": "Šet. Sv. Bernardina 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 197"
+   ],
+   "mob": [],
+   "email": [
+      "krcki.dvori@ri.t-com.hr",
+      "sanela.juresic@gmail.com"
+   ],
+   "webtitle": "www.krcki-dvori.hr",
+   "weburl": "http://www.krcki-dvori.hr",
+   "image": "casa-del-padrone.jpg",
+   "imagealt": "Casa del Padrone"
+},
+ {
+   "id": 107,
+   "lan": "hr",
+   "name": "Kuća krčkog pršuta",
+   "kategorija": [
+      "Lokalni proizvodi"
+   ],
+   "content": "<p>Ugostiteljski objekt - konoba, proizvodnja i prodaja proizvoda. Krčki pršut, mesne prerađevine, sir, vino.</p>",
+   "adresa": {
+      "ulica": "Bok od Brozića 40, Vrh",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 686 098"
+   ],
+   "mob": [
+      "+385 99 214 71 15"
+   ],
+   "telfax": "+385 51 222 138",
+   "email": [
+      "krckiprsut@gmail.com",
+      "mesnica-market-zuzic@ri.t-com.hr"
+   ],
+   "webtitle": "www.kuca-krckog-prsuta.com",
+   "weburl": "http://www.kuca-krckog-prsuta.com"
+},
+ {
+   "id": 108,
+   "lan": "hr",
+   "name": "Kuća maslinovog ulja Nono",
+   "kategorija": [
+      "Lokalni proizvodi"
+   ],
+   "content": "<p>Ugostiteljski objekt, oleoteka, prerada maslinovog ulja i prodaja proizvoda. Maslinovo ulje, sir, mesne prerađevine, suveniri, med, sok od jabuke.</p>",
+   "adresa": {
+      "ulica": "Krčkih iseljenika 8",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 221"
+   ],
+   "mob": [
+      "+385 98 369 193"
+   ],
+   "email": [
+      "nono.krk@gmail.com",
+      "nono@nono-krk.com"
+   ],
+   "webtitle": "www.nono-krk.com",
+   "weburl": "http://www.nono-krk.com"
+},
+ {
+   "id": 109,
+   "lan": "hr",
+   "name": "Mariolina",
+   "kategorija": [
+      "Lokalni proizvodi"
+   ],
+   "content": "<p>Pizzeria i prodaja proizvoda. Domaća tjestenina, šurlice.</p>",
+   "adresa": {
+      "ulica": "Dr. D. Vitezića 19",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 346"
+   ],
+   "mob": [],
+   "fax": "+385 51 880 678",
+   "email": [
+      "mariolina@mariolina.hr"
+   ],
+   "webtitle": "www.mariolina.hr",
+   "weburl": "http://www.mariolina.hr"
+},
+ {
+   "id": 110,
+   "lan": "hr",
+   "name": "OPG David Mrakovčić",
+   "kategorija": [
+      "Domaći proizvodi OPG"
+   ],
+   "content": "<p>Krčko maslinovo ulje 10-30-10</p>",
+   "adresa": {
+      "ulica": "Narodnog preporoda 27C",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 88 11 953"
+   ],
+   "email": [
+      "mrakovcic.david@gmail.com"
+   ],
+   "webtitle": "www.ulje103010.com",
+   "weburl": "http://www.ulje103010.com"
+},
+ {
+   "id": 111,
+   "lan": "hr",
+   "name": "OPG Goran Marević",
+   "kategorija": [
+      "Domaći proizvodi OPG"
+   ],
+   "content": "<p>Maslinovo ulje</p>",
+   "adresa": {
+      "ulica": "I. Mažuranića 2",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 944 94 82"
+   ],
+   "email": [
+      "gmarevic@net.hr"
+   ],
+   "webtitle": "www.mali-tovar.com",
+   "weburl": "http://www.mali-tovar.com"
+},
+ {
+   "id": 112,
+   "lan": "hr",
+   "name": "OPG Ivan Šamanić ",
+   "kategorija": [
+      "Domaći proizvodi OPG"
+   ],
+   "content": "<p>Maslinovo ulje, domaće vino, rakija</p>",
+   "adresa": {
+      "ulica": "Dobrinjska 21c",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 141"
+   ],
+   "mob": [],
+   "email": [
+      "ivica.samanic1@ri.t-com.hr"
+   ]
+},
+ {
+   "id": 113,
+   "lan": "hr",
+   "name": "OPG Ljubica Marević",
+   "kategorija": [
+      "Domaći proizvodi OPG"
+   ],
+   "content": "<p>Maslinovo ulje, smokve, med i rakije</p>",
+   "adresa": {
+      "ulica": "Obala hrv. mornarice bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 513 94 08"
+   ],
+   "email": [
+      "mljubica@net.hr"
+   ]
+},
+ {
+   "id": 114,
+   "lan": "hr",
+   "name": "OPG Mirjenko Mrakovčić ",
+   "kategorija": [
+      "Domaći proizvodi OPG"
+   ],
+   "content": "<p>Krčki sir, maslinovo ulje, suhe smokve, džemovi</p>",
+   "adresa": {
+      "ulica": "17. travnja 13",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 925 16 24"
+   ],
+   "telfax": "+385 51 851 351",
+   "email": [
+      "mirjenko.mrakovcic@ri.t-com.hr"
+   ],
+   "webtitle": "www.krcki-sir.com",
+   "weburl": "http://www.krcki-sir.com"
+},
+ {
+   "id": 115,
+   "lan": "hr",
+   "name": "OPG Mare Depikolozvane ",
+   "kategorija": [
+      "Domaći proizvodi OPG"
+   ],
+   "content": "<p>Maslinovo ulje</p>",
+   "adresa": {
+      "ulica": "Krčkih iseljenika 9",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 585 33 94"
+   ],
+   "email": [
+      "cda@hi.t-com.hr"
+   ]
+},
+ {
+   "id": 116,
+   "lan": "hr",
+   "name": "OPG Mate Mrakovčić ",
+   "kategorija": [
+      "Domaći proizvodi OPG"
+   ],
+   "content": "<p>Maslinovo ulje, vino i rakije. Prodajno mjesto: Camping Bor, Crikvenička 10, 51500 Krk</p>",
+   "adresa": {
+      "ulica": "R. Boškovića 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 581"
+   ],
+   "mob": [
+      "+385 91 1300 241",
+      "+385 91 1300 242"
+   ],
+   "email": []
+},
+ {
+   "id": 117,
+   "lan": "hr",
+   "name": "OPG Ivana Prah - Trgovina Mendula ",
+   "kategorija": [
+      "Domaći proizvodi OPG"
+   ],
+   "content": "<p>Proizvodnja i prodaja prirodne kozmetike i aromatičnog bilja</p>",
+   "adresa": {
+      "ulica": "J.J. Strossmayera 25",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 610"
+   ],
+   "mob": [
+      "+385 91 720 0132"
+   ],
+   "email": [
+      "mendula.kreme@yahoo.com"
+   ],
+   "fb": "mendula.kreme.3",
+   "fburl": "https://www.facebook.com/mendula.kreme.3"
+},
+ {
+   "id": 118,
+   "lan": "hr",
+   "name": "OPG Mirko Adžić-Kapitanović ",
+   "kategorija": [
+      "Domaći proizvodi OPG"
+   ],
+   "content": "<p>Maslinovo ulje, liker od masline, suveniri od maslinovog drva</p>",
+   "adresa": {
+      "ulica": "Kvarnerska 17",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 793 39 25"
+   ],
+   "email": [
+      "madzickapitanovic@gmail.com"
+   ]
+},
+ {
+   "id": 119,
+   "lan": "hr",
+   "name": "OPG Nikica Depikolzvane",
+   "kategorija": [
+      "Domaći proizvodi OPG"
+   ],
+   "content": "<p>Med od kadulje</p>",
+   "adresa": {
+      "ulica": "Krčkih iseljenika 15",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 251 1068"
+   ],
+   "email": [
+      "apartmani@depikolzvane.com"
+   ],
+   "webtitle": "www.depikolzvane.com",
+   "weburl": "http://www.depikolzvane.com"
+},
+ {
+   "id": 120,
+   "lan": "hr",
+   "name": "OPG Rimbaldo",
+   "kategorija": [
+      "Domaći proizvodi OPG"
+   ],
+   "content": "<p>Proizvodi od svježih i suhih smokava i raznog voća</p>",
+   "adresa": {
+      "ulica": "Crikvenička 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 88 33 891"
+   ],
+   "email": [
+      "opg.rimbaldo.krk@gmail.com"
+   ]
+},
+ {
+   "id": 121,
+   "lan": "hr",
+   "name": "Frankopan",
+   "kategorija": [
+      "Restoran"
+   ],
+   "content": "<p>Bogata ponuda ribe</p>",
+   "adresa": {
+      "ulica": "Trg Sv. Kvirina 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "telfax": "+385 51 221 437",
+   "email": [
+      "frankopan-krk@hotmail.com"
+   ]
+},
+ {
+   "id": 122,
+   "lan": "hr",
+   "name": "Galeb",
+   "kategorija": [
+      "Restoran"
+   ],
+   "adresa": {
+      "ulica": "Obala hrv. mornarice 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 261"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 123,
+   "lan": "hr",
+   "name": "Karaka",
+   "kategorija": [
+      "Restoran"
+   ],
+   "content": "<p>Jela pod pekom, jela sa ražnja, krčka janjetina po narudžbi, šurlice, velika ponuda ribe</p>",
+   "adresa": {
+      "ulica": "Senjska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 845 480"
+   ],
+   "mob": [
+      "+385 99 35 05 426"
+   ],
+   "email": [
+      "info@restoran-karaka.hr",
+      "restoran.karaka.krk@hi.t-com.hr"
+   ],
+   "webtitle": "www.restoran-karaka.hr",
+   "weburl": "http://www.restoran-karaka.hr"
+},
+ {
+   "id": 124,
+   "lan": "hr",
+   "name": "Lavanda",
+   "kategorija": [
+      "Restoran"
+   ],
+   "adresa": {
+      "ulica": "Vlade Tomašića 7",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 491 819"
+   ],
+   "email": [],
+   "webtitle": "www.pansion-mario-krk.com",
+   "weburl": "http://www.pansion-mario-krk.com"
+},
+ {
+   "id": 125,
+   "lan": "hr",
+   "name": "Marina",
+   "kategorija": [
+      "Restoran"
+   ],
+   "content": "<p>Janjetina po narudžbi, šurlice, sezonski menu, mediteranska kuhinja. Srpanj i kolovoz živa glazba u večernjim satima.</p>",
+   "adresa": {
+      "ulica": "Obala hrv. mornarice 8",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 128"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 357",
+   "email": [
+      "hotelmarina@hotelikrk.hr"
+   ],
+   "webtitle": "www.hotelmarina.hr",
+   "weburl": "http://www.hotelmarina.hr"
+},
+ {
+   "id": 126,
+   "lan": "hr",
+   "name": "Restoran Krk",
+   "kategorija": [
+      "Restoran"
+   ],
+   "content": "<p>Janjetina po narudžbi, Krčki sir, Krčko vino. Specijalitet: Biftek sa kozicama i škampima.</p>",
+   "adresa": {
+      "ulica": "Dr. D. Vitezića 32",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 502 002"
+   ],
+   "telfax": "+385 51 220 212",
+   "email": [
+      "info@hostel-krk.com"
+   ],
+   "webtitle": "www.hostel-krk.com",
+   "weburl": "http://www.hostel-krk.com"
+},
+ {
+   "id": 127,
+   "lan": "hr",
+   "name": "Restoran Bor (Hotel & Restaurant Bor)",
+   "kategorija": [
+      "Restoran"
+   ],
+   "content": "<p>Krčka janjetina po narudžbi, krčko vino, šurlice, vegetarijanski meni.</p>",
+   "adresa": {
+      "ulica": "Šetalište Dražica 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "telfax": "+385 51 220 200",
+   "email": [
+      "bor@hotelbor.hr"
+   ],
+   "webtitle": "www.hotelbor.hr",
+   "weburl": "http://www.hotelbor.hr"
+},
+ {
+   "id": 128,
+   "lan": "hr",
+   "name": "Torkul",
+   "kategorija": [
+      "Restoran"
+   ],
+   "adresa": {
+      "ulica": "Slavka Nikolića 55",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 230"
+   ],
+   "mob": [
+      "+385 91 30 10 423"
+   ],
+   "fax": "+385 51 587 633",
+   "email": [
+      "torkul@net.hr"
+   ]
+},
+ {
+   "id": 129,
+   "lan": "hr",
+   "name": "Restoran Trattoria Glavotok",
+   "kategorija": [
+      "Restoran"
+   ],
+   "content": "<p>Krčka janjetina po narudžbi, jela pod pekom, krčki pršut, krčko vino, domaće šurlice, krčke slastice, sezonski menu, veliki izbor ribe</p>",
+   "adresa": {
+      "ulica": "Glavotok 4",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 867 880"
+   ],
+   "mob": [],
+   "fax": "+385 51 867 882",
+   "email": [
+      "info@kamp-glavotok.hr"
+   ],
+   "webtitle": "www.kamp-glavotok.hr",
+   "weburl": "http://www.kamp-glavotok.hr"
+},
+ {
+   "id": 130,
+   "lan": "hr",
+   "name": "Veja's",
+   "kategorija": [
+      "Restoran"
+   ],
+   "content": "<p>Krčka janjetina po narudžbi, sezonski menu, Krčki sir, pršut, krčko vino, šurlice, krčke slastice</p>",
+   "adresa": {
+      "ulica": "Kvarnerska 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 414 444"
+   ],
+   "mob": [
+      "+385 99 359 8890"
+   ],
+   "email": [
+      "info@apartments-vejas.com.hr"
+   ],
+   "webtitle": "www.apartments-vejas.com.hr",
+   "weburl": "http://www.apartments-vejas.com.hr"
+},
+ {
+   "id": 131,
+   "lan": "hr",
+   "name": "Andreja - konoba",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Krčka janjetina po narudžbi, šurlice. Specijalitet: lignje na mornarski.</p>",
+   "adresa": {
+      "ulica": "Vela placa 6",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 185 60 32"
+   ],
+   "email": [
+      "info@adrijan-krk.hr"
+   ],
+   "webtitle": "www.adrijan-krk.hr",
+   "weburl": "http://www.adrijan-krk.hr"
+},
+ {
+   "id": 132,
+   "lan": "hr",
+   "name": "Beach bar Plav - bistro",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Senjska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 99 752 4307"
+   ],
+   "email": []
+},
+ {
+   "id": 133,
+   "lan": "hr",
+   "name": "Bistro Katarina",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Krčka janjetina po narudžbi, šurlice. Doručak svakodnevno u ponudi, velika ponuda ribe.</p>",
+   "adresa": {
+      "ulica": "Matije Gupca 2",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 649"
+   ],
+   "mob": [],
+   "email": [
+      "katarina.passage@gmail.com"
+   ],
+   "webtitle": "www.katarina-krk.com",
+   "weburl": "http://www.katarina-krk.com"
+},
+ {
+   "id": 134,
+   "lan": "hr",
+   "name": "Bistro Neptun",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Puntarska 1a",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 95 350 5555"
+   ],
+   "email": [
+      "ekoagra.sb@gmail.com"
+   ]
+},
+ {
+   "id": 135,
+   "lan": "hr",
+   "name": "Bistro Politin",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Krčka janjetina, jela pod pekom, šurlice, sezonski menu</p>",
+   "adresa": {
+      "ulica": "Narodnog preporoda 80. (Camping Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 449 737"
+   ],
+   "email": [
+      "milohnic@gmail.com"
+   ]
+},
+ {
+   "id": 136,
+   "lan": "hr",
+   "name": "Bistro Punta di Galetto",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Šetalište Dražica 2",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 862 122"
+   ],
+   "mob": [],
+   "fax": "+385 51 862 122",
+   "email": []
+},
+ {
+   "id": 137,
+   "lan": "hr",
+   "name": "Boškarin - konoba",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Linardići 24",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 784 13 01"
+   ],
+   "email": []
+},
+ {
+   "id": 138,
+   "lan": "hr",
+   "name": "Camplin - pizzeria",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "A. Stepinca bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 311"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 139,
+   "lan": "hr",
+   "name": "Corsaro - konoba",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Obala hrv. mornarice 2",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 547"
+   ],
+   "mob": [
+      "+385 98 258 231"
+   ],
+   "email": [
+      "corsaro.krk@gmail.com"
+   ],
+   "webtitle": "www.konoba-corsaro.com",
+   "weburl": "http://www.konoba-corsaro.com"
+},
+ {
+   "id": 140,
+   "lan": "hr",
+   "name": "Dunat - bistro",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Dunat bb",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [
+      "+385 51 222 119"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 141,
+   "lan": "hr",
+   "name": "Dvori Sv. Jurja",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Krčka janjetina iz vlastitog uzgoja, Krčki sir, Krčki pršut, Krčko vino, šurlice, sezonski meni, jela pod pekom</p>",
+   "adresa": {
+      "ulica": "Bok od Brozića 100, Vrh",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 505 33 91"
+   ],
+   "email": [
+      "agroturizamkrk@gmail.com",
+      "stancija.bonmartin.krk@gmail.com"
+   ],
+   "webtitle": "www.krk-agroturizam.com",
+   "weburl": "http://www.krk-agroturizam.com",
+   "image": "dvori-sv-juraj.jpg",
+   "imagealt": "Dvori Sv. Jurja"
+},
+ {
+   "id": 142,
+   "lan": "hr",
+   "name": "Galija - konoba i pizzeria",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Janjetina po narudžbi, šurlice, sezonski menu, mediteranska kuhinja, veliki izbor ribe</p>",
+   "adresa": {
+      "ulica": "Frankopanska 38",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 250"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 350",
+   "email": [
+      "info@galijakrk.com"
+   ],
+   "webtitle": "www.galijakrk.com",
+   "weburl": "http://www.galijakrk.com"
+},
+ {
+   "id": 143,
+   "lan": "hr",
+   "name": "Gec - konoba",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Veliki izbor ribljih jela</p>",
+   "adresa": {
+      "ulica": "Krčkih iseljenika 9",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 461"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 144,
+   "lan": "hr",
+   "name": "Kantun - bistro i pizzeria",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 38",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 771"
+   ],
+   "mob": [
+      "+385 99 544 9895"
+   ],
+   "email": []
+},
+ {
+   "id": 145,
+   "lan": "hr",
+   "name": "Konoba i pizzeria Krk",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića 1b",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 813"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 146,
+   "lan": "hr",
+   "name": "Konoba la Marinera",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića 1c",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 798 75 73"
+   ],
+   "email": [
+      "i_dadic@yahoo.com"
+   ]
+},
+ {
+   "id": 147,
+   "lan": "hr",
+   "name": "Konoba Tonivale",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Krčka janjetina, krčki sir, krčki pršut, krčko vino, šurlice, jela pod pekom, specijaliziran i za riblju ponudu</p>",
+   "adresa": {
+      "ulica": "Skrbčići 29c",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "firma": " ",
+   "tel": [],
+   "mob": [],
+   "email": [
+      "tonivale.krk@hotmail.com"
+   ],
+   "webtitle": "www.tonivale.com",
+   "weburl": "http://www.tonivale.com"
+},
+ {
+   "id": 148,
+   "lan": "hr",
+   "name": "Konoba tri maruna",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Poljica 17",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 164 7106"
+   ],
+   "email": []
+},
+ {
+   "id": 149,
+   "lan": "hr",
+   "name": "Kuća Krčkog pršuta - Konoba",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Krčki pršut, jela pod pekom po narudžbi, jela na ražnju po narudžbi, krčka janjetina po narudžbi, dnevni i degustacijski meni, sezonski meni, šurlice, krčko vino. Specijalitet kuće: Domaće šurlice s krčkim pršutom, juneći biftek s krčkim pršutom, pašteta s krčkim pršutom</p>",
+   "adresa": {
+      "ulica": "Bok od Brozića 40, Vrh",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 686 098"
+   ],
+   "mob": [
+      "+385 99 214 71 15"
+   ],
+   "telfax": "+385 51 222 138",
+   "email": [
+      "krckiprsut@gmail.com",
+      "mesnica-market-zuzic@ri.t-com.hr"
+   ],
+   "webtitle": "www.kuca-krckog-prsuta.com",
+   "weburl": "http://www.kuca-krckog-prsuta.com"
+},
+ {
+   "id": 150,
+   "lan": "hr",
+   "name": "Mala vrata - pizzeria",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Obala hrv. mornarice bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 005"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 151,
+   "lan": "hr",
+   "name": "Mali nono - konoba",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 39",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 995"
+   ],
+   "mob": [
+      "+385 98 369 193"
+   ],
+   "email": [
+      "nono.krk@gmail.com",
+      "nono@nono-krk.com"
+   ],
+   "webtitle": "www.nono-krk.com",
+   "weburl": "http://www.nono-krk.com"
+},
+ {
+   "id": 152,
+   "lan": "hr",
+   "name": "Marea - konoba i pizzeria",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Krčka janjetina, šurlice, dostava hrane</p>",
+   "adresa": {
+      "ulica": "Placa 13",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [
+      "+385 51 851 148"
+   ],
+   "mob": [
+      "+385 95 3 999 000"
+   ],
+   "email": [
+      "damjurko@gmail.com"
+   ],
+   "webtitle": "www.pilan-konoba-marea.hr",
+   "weburl": "http://www.pilan-konoba-marea.hr"
+},
+ {
+   "id": 153,
+   "lan": "hr",
+   "name": "Marija- konoba i pizzeria",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Gušternica 53, Vrh",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 865 270"
+   ],
+   "mob": [],
+   "email": [
+      "konobamarijavrh@gmail.com"
+   ],
+   "webtitle": "www.konobamarija.com",
+   "weburl": "http://www.konobamarija.com"
+},
+ {
+   "id": 154,
+   "lan": "hr",
+   "name": "Maritim - konoba",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Krčka janjetina po narudžbi, šurlice na razne načine, veliki izbor ribe, jela pod pekom po narudžbi.</p>",
+   "adresa": {
+      "ulica": "Braće Linardić 10",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 454"
+   ],
+   "mob": [],
+   "email": [
+      "info@maritim-krk.com"
+   ],
+   "webtitle": "www.maritim-krk.com",
+   "weburl": "http://www.maritim-krk.com"
+},
+ {
+   "id": 155,
+   "lan": "hr",
+   "name": "Nono - konoba",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Krčkih iseljenika 8",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 221"
+   ],
+   "mob": [
+      "+385 98 369 193"
+   ],
+   "email": [
+      "nono.krk@gmail.com",
+      "nono@nono-krk.com"
+   ],
+   "webtitle": "www.nono-krk.com",
+   "weburl": "http://www.nono-krk.com"
+},
+ {
+   "id": 156,
+   "lan": "hr",
+   "name": "Pod prevolt - konoba",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Domaća krčka kuhinja sa namirnicama iz vlastite proizvodnje. Krčka janjetina po narudžbi, krčki sir, krčki pršut, krčko vino, jela pod pekom po narudžbi, domaće šurlice. Specijalitet kuće - brudet od sušene hobotnice, juha od koprive. Specijaliziran i za riblju ponudu, sezonski meni.</p>",
+   "adresa": {
+      "ulica": "Milohnići 16",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 862 149"
+   ],
+   "mob": [
+      "+385 91 796 4650"
+   ],
+   "fax": "+385 51 862 091",
+   "email": [
+      "konoba.podprevolt@gmail.com"
+   ]
+},
+ {
+   "id": 157,
+   "lan": "hr",
+   "name": "Pud brest - konoba",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Milohnići bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 862 111"
+   ],
+   "mob": [
+      "+385 91 1862 111"
+   ],
+   "email": [
+      "info@pud-brest.com"
+   ],
+   "webtitle": "www.pud-brest.com",
+   "weburl": "http://www.pud-brest.com"
+},
+ {
+   "id": 158,
+   "lan": "hr",
+   "name": "Šime - konoba",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Riba i morski plodovi iz Jadranskog mora</p>",
+   "adresa": {
+      "ulica": "Obala hrv. mornarice 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 042"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 159,
+   "lan": "hr",
+   "name": "Top - bistro",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "content": "<p>Roštilj na drveni ugljen</p>",
+   "adresa": {
+      "ulica": "N. preporoda 20",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 973 1288"
+   ],
+   "email": []
+},
+ {
+   "id": 160,
+   "lan": "hr",
+   "name": "Valbiska – pizzeria, bistro, slastičarna",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Valbiska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 863 132"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 161,
+   "lan": "hr",
+   "name": "Valbenz d.o.o. - pizzeria",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Valbiska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 863 100"
+   ],
+   "mob": [],
+   "fax": "+385 51 863 200",
+   "email": [
+      "valbenz@gmail.com"
+   ]
+},
+ {
+   "id": 162,
+   "lan": "hr",
+   "name": "Viktor&Koko - food&wine bar",
+   "kategorija": [
+      "Konoba, pizzeria, bistro"
+   ],
+   "adresa": {
+      "ulica": "Biskupa Antuna Mahnića 17",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 502 90 42"
+   ],
+   "email": [
+      "iva.tabar@akson.hr"
+   ]
+},
+ {
+   "id": 163,
+   "lan": "hr",
+   "name": "Volsonis",
+   "kategorija": [
+      "Konoba, pizzeria, bistro",
+      "Noćna zabava"
+   ],
+   "content": "<p>Doručak svakodnevno u ponudi. Krčka janjetina po narudžbi, šurlice, tradicionalne slastice. Coctail bar, noćni bar.</p>",
+   "adresa": {
+      "ulica": "Vela placa 8",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 880 249"
+   ],
+   "mob": [],
+   "fax": "+385 51 880 725",
+   "email": [
+      "info@volsonis.hr"
+   ],
+   "webtitle": "www.volsonis.hr",
+   "weburl": "http://www.volsonis.hr"
+},
+ {
+   "id": 164,
+   "lan": "hr",
+   "name": "Slastičarna Katarina",
+   "kategorija": [
+      "Slastičarna"
+   ],
+   "content": "<p>Proizvodnja i prodaja slastica.</p>",
+   "adresa": {
+      "ulica": "Matije Gupca 2",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 649"
+   ],
+   "mob": [],
+   "email": [
+      "katarina.passage@gmail.com"
+   ],
+   "webtitle": "www.katarina-krk.com",
+   "weburl": "http://www.katarina-krk.com"
+},
+ {
+   "id": 165,
+   "lan": "hr",
+   "name": "Luna",
+   "kategorija": [
+      "Slastičarna"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 38",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 166,
+   "lan": "hr",
+   "name": "Slastičarski obrt Mimoza ",
+   "kategorija": [
+      "Slastičarna"
+   ],
+   "content": "<p>Prodaja slastica</p>",
+   "adresa": {
+      "ulica": "I. Meštrovića 1/A",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 804"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 167,
+   "lan": "hr",
+   "name": "Toš",
+   "kategorija": [
+      "Slastičarna"
+   ],
+   "adresa": {
+      "ulica": "A. Mahnića 2",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 168,
+   "lan": "hr",
+   "name": "Vili",
+   "kategorija": [
+      "Slastičarna"
+   ],
+   "adresa": {
+      "ulica": "Vela placa 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 771"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 169,
+   "lan": "hr",
+   "name": "Casa del Padrone",
+   "kategorija": [
+      "Noćna zabava"
+   ],
+   "content": "<p>Lounge bar</p>",
+   "adresa": {
+      "ulica": "Trg. Sv. Bernardina 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 99 702 27 27"
+   ],
+   "email": [
+      "krcki.dvori@ri.t-com.hr",
+      "deniel-juresic@krcki-dvori.hr"
+   ],
+   "webtitle": "www.krcki-dvori.hr",
+   "weburl": "http://www.krcki-dvori.hr"
+},
+ {
+   "id": 170,
+   "lan": "hr",
+   "name": "Beach bar Casa del Padrone",
+   "kategorija": [
+      "Noćna zabava"
+   ],
+   "adresa": {
+      "ulica": "Dunat bb",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [],
+   "mob": [],
+   "email": [],
+   "webtitle": "www.krcki-dvori.hr",
+   "weburl": "http://www.krcki-dvori.hr"
+},
+ {
+   "id": 171,
+   "lan": "hr",
+   "name": "Galapagos Beach bar",
+   "kategorija": [
+      "Noćna zabava"
+   ],
+   "adresa": {
+      "ulica": "Dunat bb",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 505 0851"
+   ],
+   "email": [
+      "smladena@gmail.com"
+   ]
+},
+ {
+   "id": 172,
+   "lan": "hr",
+   "name": "Mocca Beach bar i coctail bar",
+   "kategorija": [
+      "Noćna zabava"
+   ],
+   "adresa": {
+      "ulica": "Uvala Jert, Pinezići",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 95 864 84 16"
+   ],
+   "email": [
+      "mocca.jert@gmail.com"
+   ],
+   "fb": "Beach.Bar.Mocca",
+   "fburl": "https://www.facebook.com/Beach.Bar.Mocca"
+},
+ {
+   "id": 173,
+   "lan": "hr",
+   "name": "Boutique Hotel Placa - heritage hotel****",
+   "kategorija": [
+      "Hotel"
+   ],
+   "adresa": {
+      "ulica": "Ribarska 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 587 429"
+   ],
+   "mob": [
+      "+385 91 48 18 445"
+   ],
+   "telfax": "+385 51 220 200",
+   "email": [
+      "placa.hotel@gmail.com"
+   ],
+   "webtitle": "www.hotel-placa.com",
+   "weburl": "http://www.hotel-placa.com",
+   "image": "heritage.jpg",
+   "imagealt": "Boutique Hotel Placa - heritage hotel****"
+},
+ {
+   "id": 174,
+   "lan": "hr",
+   "name": "Hotel Bor***",
+   "kategorija": [
+      "Hotel"
+   ],
+   "adresa": {
+      "ulica": "Šetalište Dražica 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": [
+      "bor@hotelbor.hr"
+   ],
+   "webtitle": "www.hotelbor.hr",
+   "weburl": "http://www.hotelbor.hr",
+   "image": "hotel-bor.jpg",
+   "imagealt": "Hotel Bor***"
+},
+ {
+   "id": 175,
+   "lan": "hr",
+   "name": "Hoteli Krk d.o.o.",
+   "kategorija": [
+      "Hotel"
+   ],
+   "adresa": {
+      "ulica": "Ružmarinska 6",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 655 755"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 022",
+   "email": [
+      "info@hotelikrk.hr"
+   ],
+   "webtitle": "www.hotelikrk.hr",
+   "weburl": "http://www.hotelikrk.hr"
+},
+ {
+   "id": 176,
+   "lan": "hr",
+   "name": "Hotel Dražica",
+   "kategorija": [
+      "Hotel"
+   ],
+   "adresa": {
+      "ulica": "Ružmarinska 6",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 655 755"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 022",
+   "email": [
+      "info@hotelikrk.hr"
+   ],
+   "webtitle": "www.hotelikrk.hr",
+   "weburl": "http://www.hotelikrk.hr",
+   "image": "drazica.jpg",
+   "imagealt": "Hotel Dražica"
+},
+ {
+   "id": 177,
+   "lan": "hr",
+   "name": "Villa Lovorka***",
+   "kategorija": [
+      "Hotel"
+   ],
+   "adresa": {
+      "ulica": "Ružmarinska 6",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 655 755"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 022",
+   "email": [
+      "info@hotelikrk.hr"
+   ],
+   "webtitle": "www.hotelikrk.hr",
+   "weburl": "http://www.hotelikrk.hr",
+   "image": "villa-lovorka.jpg",
+   "imagealt": "Villa Lovorka***"
+},
+ {
+   "id": 178,
+   "lan": "hr",
+   "name": "Villa Tamaris***",
+   "kategorija": [
+      "Hotel"
+   ],
+   "adresa": {
+      "ulica": "Ružmarinska 6",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 655 755"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 022",
+   "email": [
+      "info@hotelikrk.hr"
+   ],
+   "webtitle": "www.hotelikrk.hr",
+   "weburl": "http://www.hotelikrk.hr",
+   "image": "villa-tamaris.jpg",
+   "imagealt": "Villa Tamaris***"
+},
+ {
+   "id": 179,
+   "lan": "hr",
+   "name": "Hotel Marina****",
+   "kategorija": [
+      "Hotel"
+   ],
+   "adresa": {
+      "ulica": "Obala hrv. mornarice 8",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 128"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 357",
+   "email": [
+      "hotelmarina@hotelikrk.hr"
+   ],
+   "webtitle": "www.hotelmarina.hr",
+   "weburl": "http://www.hotelmarina.hr",
+   "image": "hotel-marina.jpg",
+   "imagealt": "Hotel Marina****"
+},
+ {
+   "id": 180,
+   "lan": "hr",
+   "name": "Hotel Valamar Koralj Romantic Hotel***",
+   "kategorija": [
+      "Hotel"
+   ],
+   "adresa": {
+      "ulica": "V. Tomašića 38",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 655 400",
+      "+385 52 465 000"
+   ],
+   "mob": [],
+   "fax": "+385 51 655 410",
+   "email": [
+      "reservations@valamar.com"
+   ],
+   "webtitle": "www.valamar.com",
+   "weburl": "http://www.valamar.com",
+   "image": "hotel-koralj.jpg",
+   "imagealt": "Hotel Valamar Koralj Romantic Hotel***"
+},
+ {
+   "id": 181,
+   "lan": "hr",
+   "name": "Camping Bor***",
+   "kategorija": [
+      "Kamp",
+      "Zimovnik za plovila i kamp kućice"
+   ],
+   "adresa": {
+      "ulica": "Crikvenička 10",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 581"
+   ],
+   "mob": [],
+   "fax": "+385 51 222 429",
+   "email": [
+      "info@camp-bor.hr"
+   ],
+   "webtitle": "www.camp-bor.hr",
+   "weburl": "http://www.camp-bor.hr"
+},
+ {
+   "id": 182,
+   "lan": "hr",
+   "name": "Camping Glavotok***",
+   "kategorija": [
+      "Kamp"
+   ],
+   "adresa": {
+      "ulica": "Glavotok 4",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 867 880"
+   ],
+   "mob": [],
+   "fax": "+385 51 867 882",
+   "email": [
+      "info@kamp-glavotok.hr"
+   ],
+   "webtitle": "www.kamp-glavotok.hr",
+   "weburl": "http://www.kamp-glavotok.hr",
+   "image": "kamp-glavotok.jpg",
+   "imagealt": "Camping Glavotok***"
+},
+ {
+   "id": 183,
+   "lan": "hr",
+   "name": "Camping Ježevac**** ",
+   "kategorija": [
+      "Kamp"
+   ],
+   "adresa": {
+      "ulica": "Plavnička bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 081",
+      "+385 52 465 010"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 362",
+   "email": [
+      "camping@valamar.com"
+   ],
+   "webtitle": "www.camping-adriatic.com",
+   "weburl": "http://www.camping-adriatic.com"
+},
+ {
+   "id": 184,
+   "lan": "hr",
+   "name": "Camping Krk*****",
+   "kategorija": [
+      "Kamp"
+   ],
+   "adresa": {
+      "ulica": "Narodnog preporoda 80",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 351",
+      "+385 52 465 010"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 246",
+   "email": [
+      "camping@valamar.com"
+   ],
+   "webtitle": "www.camping-adriatic.com",
+   "weburl": "http://www.camping-adriatic.com",
+   "image": "camping-krk.jpg",
+   "imagealt": "Camping Krk*****"
+},
+ {
+   "id": 185,
+   "lan": "hr",
+   "name": "Camping Marta••••",
+   "kategorija": [
+      "Kamp"
+   ],
+   "adresa": {
+      "ulica": "Skrpčić 29",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 863 126"
+   ],
+   "mob": [
+      "+385 98 491 807"
+   ],
+   "email": [
+      "info@camp-marta-krk.com"
+   ],
+   "webtitle": "www.camp-marta-krk.com",
+   "weburl": "http://www.camp-marta-krk.com"
+},
+ {
+   "id": 186,
+   "lan": "hr",
+   "name": "Kamp Amar",
+   "kategorija": [
+      "Kamp"
+   ],
+   "adresa": {
+      "ulica": "Njivine 8, Pinezići",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 863 029"
+   ],
+   "mob": [],
+   "email": [
+      "camp_amar@yahoo.com"
+   ]
+},
+ {
+   "id": 187,
+   "lan": "hr",
+   "name": "Kamp odmorište Krk",
+   "kategorija": [
+      "Kamp"
+   ],
+   "adresa": {
+      "ulica": "Sv. Petar bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 867 880",
+      "+385 51 619 074"
+   ],
+   "mob": [
+      "+385 91 602 3134"
+   ],
+   "fax": "+385 51 867 882",
+   "email": [
+      "info@kamp-glavotok.hr"
+   ],
+   "webtitle": "www.camperstop-krk.com",
+   "weburl": "http://www.camperstop-krk.com"
+},
+ {
+   "id": 188,
+   "lan": "hr",
+   "name": "Camper Stop Felix",
+   "kategorija": [
+      "Kamp"
+   ],
+   "content": "<p>vl. Krajačić Srećko</p>",
+   "adresa": {
+      "ulica": "Narodnog preporoda 51",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 218 218"
+   ],
+   "email": [
+      "camper.felix@gmail.com"
+   ]
+},
+ {
+   "id": 189,
+   "lan": "hr",
+   "name": "Adria sun",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Šet. Sv. Bernardina 6/E",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 880 333"
+   ],
+   "mob": [],
+   "fax": "+385 51 880 334",
+   "email": [
+      "info@adriasun.hr"
+   ],
+   "webtitle": "www.adriasun.hr",
+   "weburl": "http://www.adriasun.hr"
+},
+ {
+   "id": 190,
+   "lan": "hr",
+   "name": "Adrijan",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Creska 12",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 604 248"
+   ],
+   "mob": [
+      "+385 98 185 60 32"
+   ],
+   "fax": "+385 51 604 260",
+   "email": [
+      "info@adrijan-krk.hr"
+   ],
+   "webtitle": "www.adrijan-krk.hr",
+   "weburl": "http://www.adrijan-krk.hr"
+},
+ {
+   "id": 191,
+   "lan": "hr",
+   "name": "Atravel Autotrans",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Plavnička 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 661"
+   ],
+   "mob": [],
+   "fax": "+385 51 222 110",
+   "email": [
+      "krk@autotrans.hr"
+   ],
+   "webtitle": "www.atravel.hr",
+   "weburl": "http://www.atravel.hr"
+},
+ {
+   "id": 192,
+   "lan": "hr",
+   "name": "Aurea international d.o.o.",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Vršanska 26/L",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 777",
+      "+385 51 222 277"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 007",
+   "email": [
+      "aurea1@ri.t-com.hr",
+      "aurea@aurea-krk.hr"
+   ],
+   "webtitle": "www.aurea-krk.com",
+   "weburl": "http://www.aurea-krk.com"
+},
+ {
+   "id": 193,
+   "lan": "hr",
+   "name": "Azur",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "J. Pupačića 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 880 765"
+   ],
+   "mob": [
+      "+385 91 586 9248"
+   ],
+   "fax": "+385 51 880 766",
+   "email": [
+      "info@azur-krk.com"
+   ],
+   "webtitle": "www.azur-krk.com",
+   "weburl": "http://www.azur-krk.com"
+},
+ {
+   "id": 194,
+   "lan": "hr",
+   "name": "Depope",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "content": "<p>Ljetni ured: Hotel Dražica, Ružmarinska 6, 51500 Krk</p>",
+   "adresa": {
+      "ulica": "Skrpčići 51",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 863 108",
+      "+385 51 604 083"
+   ],
+   "mob": [],
+   "telfax": "+385 51 655 525",
+   "fax": "+385 51 604 084",
+   "email": [
+      "depope@depope.hr"
+   ],
+   "webtitle": "www.depope.hr",
+   "weburl": "http://www.depope.hr"
+},
+ {
+   "id": 195,
+   "lan": "hr",
+   "name": "Holidays",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Kamenica 12",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [
+      "+385 51 851 106"
+   ],
+   "mob": [],
+   "fax": "+385 51 851 170",
+   "email": [
+      "agency@krk-holidays.hr"
+   ],
+   "webtitle": "www.krk-holidays.hr",
+   "weburl": "http://www.krk-holidays.hr"
+},
+ {
+   "id": 196,
+   "lan": "hr",
+   "name": "I.R.T.D.A. d.o.o. – Kvarnerline",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Brzac 33",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "firma": "I.R.T.D.A. d.o.o.",
+   "tel": [
+      "+385 51 862 148"
+   ],
+   "mob": [
+      "+385 91 796 4656",
+      "+385 91 611 95 71"
+   ],
+   "telfax": "+385 51 869 289",
+   "email": [
+      "info@kvarnerline.com"
+   ],
+   "webtitle": "www.kvarnerline.com",
+   "weburl": "http://www.kvarnerline.com"
+},
+ {
+   "id": 197,
+   "lan": "hr",
+   "name": "Krk",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Slavka Nikolića 17",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 562 85 90"
+   ],
+   "telfax": "+385 51 221 915",
+   "email": [
+      "tuo-krk@email.t-com.hr",
+      "tuokrk@gmail.com"
+   ],
+   "webtitle": "www.tuo-krk.hr",
+   "weburl": "http://www.tuo-krk.hr"
+},
+ {
+   "id": 198,
+   "lan": "hr",
+   "name": "Krk Adria",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Linardići 28/4",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 797 35 67"
+   ],
+   "telfax": "+385 51 604 021",
+   "email": [
+      "info@krkadria.com"
+   ],
+   "webtitle": "www.krkadria.com",
+   "weburl": "http://www.krkadria.com"
+},
+ {
+   "id": 199,
+   "lan": "hr",
+   "name": "Krk Gaber",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića 30",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 676"
+   ],
+   "mob": [
+      "+385 98 578 968",
+      "+385 98 302 201"
+   ],
+   "telfax": "+385 51 221 570",
+   "email": [
+      "info@krkgaber.hr",
+      "info@krk-info.com"
+   ],
+   "webtitle": "www.krk-info.com",
+   "weburl": "http://www.krk-info.com"
+},
+ {
+   "id": 200,
+   "lan": "hr",
+   "name": "Krk info",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "S. Nikolića 34",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 99 222 333 1"
+   ],
+   "telfax": "+385 51 222 222",
+   "email": [
+      "infokrk@infokrk.com"
+   ],
+   "webtitle": "www.infokrk.com",
+   "weburl": "http://www.infokrk.com"
+},
+ {
+   "id": 201,
+   "lan": "hr",
+   "name": "Molnar - Gabor",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Milohnić bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 880 186"
+   ],
+   "mob": [
+      "+385 91 20 20 855",
+      "+385 91 20 30 855",
+      "+385 91 621 1046"
+   ],
+   "fax": "+385 51 880 186",
+   "email": [
+      "info@krktourist.com"
+   ],
+   "webtitle": "www.krktourist.com",
+   "weburl": "http://www.krktourist.com"
+},
+ {
+   "id": 202,
+   "lan": "hr",
+   "name": "Nono",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 39",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 995"
+   ],
+   "mob": [
+      "+385 98 369 193"
+   ],
+   "email": [
+      "nono.krk@gmail.com",
+      "nono@nono-krk.com"
+   ],
+   "webtitle": "www.nono-krk.com",
+   "weburl": "http://www.nono-krk.com"
+},
+ {
+   "id": 203,
+   "lan": "hr",
+   "name": "Sunset",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Dunat 50",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [
+      "+385 51 867 312"
+   ],
+   "mob": [],
+   "email": [
+      "info@sunset-krk.com"
+   ],
+   "webtitle": "www.sunset-krk.com",
+   "weburl": "http://www.sunset-krk.com"
+},
+ {
+   "id": 204,
+   "lan": "hr",
+   "name": "Suzy - tours",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "S. Nikolića 2a",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 474"
+   ],
+   "mob": [],
+   "email": [
+      "suzytours1@gmail.com"
+   ],
+   "webtitle": "www.suzy-tours.hr",
+   "weburl": "http://www.suzy-tours.hr"
+},
+ {
+   "id": 205,
+   "lan": "hr",
+   "name": "Tasić",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića 30",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 0387 653 32 412"
+   ],
+   "mob": [
+      "+385 91 89 44 863"
+   ],
+   "telfax": "+385 51 221 012",
+   "email": [
+      "info@tasic-krk.com"
+   ],
+   "webtitle": "www.tasic-krk.com",
+   "weburl": "http://www.tasic-krk.com"
+},
+ {
+   "id": 206,
+   "lan": "hr",
+   "name": "Traveler",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Drage Gervaisa 2",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 221"
+   ],
+   "mob": [
+      "+385 91 1761 285",
+      "+385 91 9060 779"
+   ],
+   "fax": "+385 51 520 208",
+   "email": [
+      "info@traveler.hr"
+   ],
+   "webtitle": "www.traveler.hr",
+   "weburl": "http://www.traveler.hr"
+},
+ {
+   "id": 207,
+   "lan": "hr",
+   "name": "Turist biro Rivena",
+   "kategorija": [
+      "Turistička agencija, privatni smještaj"
+   ],
+   "adresa": {
+      "ulica": "Slavka Nikolića 59",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 120"
+   ],
+   "mob": [
+      "+385 99 251 5416"
+   ],
+   "fax": "+385 51 221 515",
+   "email": [
+      "riviera.adria3@ri.ht.hr"
+   ],
+   "webtitle": "www.turistbiro-krk.com",
+   "weburl": "http://www.turistbiro-krk.com"
+},
+ {
+   "id": 208,
+   "lan": "hr",
+   "name": "Maritim",
+   "kategorija": [
+      "Pansion"
+   ],
+   "adresa": {
+      "ulica": "Braće Linardić 10",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 454"
+   ],
+   "mob": [],
+   "email": [
+      "info@maritim-krk.com"
+   ],
+   "webtitle": "www.maritim-krk.com",
+   "weburl": "http://www.maritim-krk.com"
+},
+ {
+   "id": 209,
+   "lan": "hr",
+   "name": "Hostel Krk",
+   "kategorija": [
+      "Hostel"
+   ],
+   "adresa": {
+      "ulica": "Dr. D. Vitezića 32",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 212"
+   ],
+   "mob": [
+      "+385 98 502 002"
+   ],
+   "email": [
+      "info@hostel-krk.com"
+   ],
+   "webtitle": "www.hostel-krk.com",
+   "weburl": "http://www.hostel-krk.com"
+},
+ {
+   "id": 210,
+   "lan": "hr",
+   "name": "Zračna luka Rijeka d.o.o.",
+   "kategorija": [
+      "Zračna luka"
+   ],
+   "adresa": {
+      "ulica": "Hamec 1",
+      "zip": 51513,
+      "mjesto": "Omišalj"
+   },
+   "tel": [
+      "+385 51 841 222",
+      "+385 51 842 040"
+   ],
+   "mob": [],
+   "fax": "+385 51 545 205",
+   "email": [
+      "information@rijeka-airport.hr",
+      "operations@rijeka-airport.hr"
+   ],
+   "webtitle": "www.rijeka-airport.hr",
+   "weburl": "http://www.rijeka-airport.hr"
+},
+ {
+   "id": 211,
+   "lan": "hr",
+   "name": "Autotrans d.o.o. Cres",
+   "kategorija": [
+      "Autobusni kolodvor"
+   ],
+   "content": "<p>Poslovna jedinica Kvarnerski otoci</p>",
+   "adresa": {
+      "ulica": "Plavnička 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 60 300 101",
+      "+385 51 221 172"
+   ],
+   "mob": [],
+   "email": [
+      "prodaja.krk@autotrans.hr"
+   ],
+   "webtitle": "www.autotrans.hr",
+   "weburl": "http://www.autotrans.hr"
+},
+ {
+   "id": 212,
+   "lan": "hr",
+   "name": "Jadrolinija",
+   "kategorija": [
+      "Trajektni prijevoz"
+   ],
+   "content": "<p>Linija Valbiska (otok Krk) – Merag (otok Cres). Linija Valbiska (otok Krk) – Lopar (otok Rab)</p>",
+   "adresa": {
+      "ulica": "Riva 16",
+      "zip": 51000,
+      "mjesto": "Rijeka"
+   },
+   "tel": [
+      "+385 51 863 170",
+      "+385 51 666 111"
+   ],
+   "mob": [],
+   "fax": "+385 51 213 116",
+   "email": [
+      "passdept_h@jadrolinija.hr"
+   ],
+   "webtitle": "www.jadrolinija.hr",
+   "weburl": "http://www.jadrolinija.hr"
+},
+ {
+   "id": 213,
+   "lan": "hr",
+   "name": "Krčki most",
+   "kategorija": [
+      "Krčki most"
+   ],
+   "adresa": {},
+   "tel": [
+      "+385 800 0111",
+      "+385 51 433 621",
+      "+385 51 433 622"
+   ],
+   "mob": [],
+   "fax": "+385 51 433 615",
+   "email": [
+      "prodaja.krk@arz.hr"
+   ]
+},
+ {
+   "id": 214,
+   "lan": "hr",
+   "name": "Hrvatske željeznice",
+   "kategorija": [
+      "Hrvatske željeznice"
+   ],
+   "adresa": {},
+   "tel": [
+      "+385 60 333 444"
+   ],
+   "mob": [],
+   "email": [
+      "informacije@hzpp.hr"
+   ],
+   "webtitle": "www.hzpp.hr",
+   "weburl": "http://www.hzpp.hr"
+},
+ {
+   "id": 215,
+   "lan": "hr",
+   "name": "Autocentar Krk",
+   "kategorija": [
+      "Vučna služba",
+      "Auto servis i trgovina dijelovima"
+   ],
+   "adresa": {
+      "ulica": "Vršanska 22",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 450",
+      "+385 51 867 570"
+   ],
+   "mob": [
+      "+385 91 1707974"
+   ],
+   "fax": "+385 51 867 565",
+   "email": [
+      "krk.autocentar@gmail.com"
+   ],
+   "webtitle": "www.autocentar-krk.hr",
+   "weburl": "http://www.autocentar-krk.hr"
+},
+ {
+   "id": 216,
+   "lan": "hr",
+   "name": "Auto klub Krk",
+   "kategorija": [
+      "Vučna služba",
+      "Auto servis i trgovina dijelovima"
+   ],
+   "adresa": {
+      "ulica": "S. Radića 13",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 615 142"
+   ],
+   "mob": [
+      "+385 99 244 00 32"
+   ],
+   "fax": "+385 51 221 159",
+   "email": [
+      "ak-krk@hak.hr"
+   ],
+   "webtitle": "www.hak.hr",
+   "weburl": "http://www.hak.hr"
+},
+ {
+   "id": 217,
+   "lan": "hr",
+   "name": "Auto Pavlović Krk",
+   "kategorija": [
+      "Vučna služba",
+      "Auto servis i trgovina dijelovima",
+      "Rent a car| Rent a bug"
+   ],
+   "content": "<p>Servis, vučna služba, prodaja automobila</p>",
+   "adresa": {
+      "ulica": "Vršanska 32",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 822"
+   ],
+   "mob": [
+      "+385 98 44 97 97"
+   ],
+   "fax": "+385 51 867 377",
+   "email": [
+      "zajednicki.obrt.pavlovic@ri.t-com.hr"
+   ]
+},
+ {
+   "id": 218,
+   "lan": "hr",
+   "name": "Carla",
+   "kategorija": [
+      "Vučna služba",
+      "Taxi"
+   ],
+   "content": "<p>vl. Đanino Butković</p>",
+   "adresa": {
+      "ulica": "Sv. Ivana 13",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 260 942"
+   ],
+   "email": []
+},
+ {
+   "id": 219,
+   "lan": "hr",
+   "name": "Vučna služba Krk",
+   "kategorija": [
+      "Vučna služba"
+   ],
+   "adresa": {
+      "ulica": "Ivana Meštrovića 27",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 390"
+   ],
+   "mob": [
+      "+385 98 215 393",
+      "+385 91 215 0987"
+   ],
+   "fax": "+385 51 221 091",
+   "email": []
+},
+ {
+   "id": 220,
+   "lan": "hr",
+   "name": "Auto Krk d.o.o.",
+   "kategorija": [
+      "Rent a car"
+   ],
+   "adresa": {
+      "ulica": "Zagrebačka bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 565"
+   ],
+   "mob": [
+      "+385 98 241 200"
+   ],
+   "fax": "+385 51 222 560",
+   "email": [
+      "info@rentacarkrk.com"
+   ],
+   "webtitle": "www.rentacarkrk.com",
+   "weburl": "http://www.rentacarkrk.com"
+},
+ {
+   "id": 221,
+   "lan": "hr",
+   "name": "Cyclotours Krk",
+   "kategorija": [
+      "Rent a bike"
+   ],
+   "adresa": {},
+   "tel": [],
+   "mob": [
+      "+385 99 6720 424"
+   ],
+   "email": [
+      "info@cyclotourskrk.com"
+   ],
+   "webtitle": "www.cyclotourskrk.com",
+   "weburl": "http://www.cyclotourskrk.com"
+},
+ {
+   "id": 222,
+   "lan": "hr",
+   "name": "CDA Krk",
+   "kategorija": [
+      "Rent a scooter"
+   ],
+   "content": "<p>Krk, centar, parkiralište za motore</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [
+      "+385 91 585 33 94",
+      "+385 91 538 91 41"
+   ],
+   "email": [
+      "cda@hi.t-com.hr"
+   ]
+},
+ {
+   "id": 223,
+   "lan": "hr",
+   "name": "Losko d.o.o.",
+   "kategorija": [
+      "Rent a scooter"
+   ],
+   "content": "<p>Rent a - Quad i rent a skuter. Autobusna stanica Krk</p>",
+   "adresa": {
+      "ulica": "Glavotok, Omišaljska 3 (sjedište)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 915 0264",
+      "+385 91 918 9323",
+      "+385 036 40 546 635"
+   ],
+   "email": []
+},
+ {
+   "id": 224,
+   "lan": "hr",
+   "name": "Rent - a - scooter / Rent - a - quad",
+   "kategorija": [
+      "Rent a scooter"
+   ],
+   "content": "<p>Krk, centar</p>",
+   "adresa": {},
+   "tel": [],
+   "mob": [
+      "+385 98 413 573"
+   ],
+   "email": [],
+   "webtitle": "www.rentscooter-krk.com",
+   "weburl": "http://www.rentscooter-krk.com"
+},
+ {
+   "id": 225,
+   "lan": "hr",
+   "name": "ABS Autotaxi Krk",
+   "kategorija": [
+      "Taxi"
+   ],
+   "content": "<p>vl. Miljenko Šamanić</p>",
+   "adresa": {
+      "ulica": "Omišaljska 34",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 257 654"
+   ],
+   "email": [
+      "miljenko.samanic@ri.t-com.hr"
+   ]
+},
+ {
+   "id": 226,
+   "lan": "hr",
+   "name": "Auto Taxi Adriana ",
+   "kategorija": [
+      "Taxi"
+   ],
+   "content": "<p>vl. Hamza Bytyqi</p>",
+   "adresa": {
+      "ulica": "S. Nikolića 38b",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 273"
+   ],
+   "mob": [
+      "+385 98 326 388"
+   ],
+   "email": [
+      "taxi.adriana@gmail.com"
+   ]
+},
+ {
+   "id": 227,
+   "lan": "hr",
+   "name": "Auto Taxi Mile",
+   "kategorija": [
+      "Taxi"
+   ],
+   "adresa": {},
+   "tel": [],
+   "mob": [
+      "+385 91 1813 130"
+   ],
+   "email": [
+      "miletaxikrk@gmail.com"
+   ],
+   "webtitle": "www.taxikrk.com",
+   "weburl": "http://www.taxikrk.com"
+},
+ {
+   "id": 228,
+   "lan": "hr",
+   "name": "Auto Taxi Oz",
+   "kategorija": [
+      "Taxi"
+   ],
+   "content": "<p>vl. Nebojša Kovačević</p>",
+   "adresa": {
+      "ulica": "Ledine 15a",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [],
+   "mob": [
+      "+385 99 340 63 29"
+   ],
+   "email": [
+      "taxi.oz.krk@gmail.com"
+   ]
+},
+ {
+   "id": 229,
+   "lan": "hr",
+   "name": "Auto Taxi Manix",
+   "kategorija": [
+      "Taxi"
+   ],
+   "content": "<p>vl. Manuel Lukanović</p>",
+   "adresa": {
+      "ulica": "Josipa Pupačića 74",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 95 553 28 05"
+   ],
+   "email": [],
+   "webtitle": "www.krktaxi.eu",
+   "weburl": "http://www.krktaxi.eu"
+},
+ {
+   "id": 230,
+   "lan": "hr",
+   "name": "Taxi Ivan Krk",
+   "kategorija": [
+      "Taxi"
+   ],
+   "adresa": {
+      "ulica": "I. Zajca 14",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 284"
+   ],
+   "mob": [
+      "+385 98 216 217",
+      "+385 98 525 215"
+   ],
+   "email": []
+},
+ {
+   "id": 231,
+   "lan": "hr",
+   "name": "Taxi Robert + Denis",
+   "kategorija": [
+      "Taxi"
+   ],
+   "adresa": {
+      "ulica": "S. Nikolića 33",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 209 194",
+      "+385 99 500 9405"
+   ],
+   "email": []
+},
+ {
+   "id": 232,
+   "lan": "hr",
+   "name": "Taxi služba Miljenko",
+   "kategorija": [
+      "Taxi"
+   ],
+   "content": "<p>Taxi, minibus</p>",
+   "adresa": {
+      "ulica": "I. Gundulića 6",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 258 502",
+      "+385 91 252 6785",
+      "+385 98 840 840"
+   ],
+   "email": [
+      "info@taxi-krk.com"
+   ],
+   "webtitle": "www.taxi-krk.com",
+   "weburl": "http://www.taxi-krk.com"
+},
+ {
+   "id": 233,
+   "lan": "hr",
+   "name": "Krk City Tour",
+   "kategorija": [
+      "Krk City Tour"
+   ],
+   "adresa": {},
+   "tel": [],
+   "mob": [
+      "+385 91 252 6785"
+   ],
+   "email": [
+      "info@taxi-krk.com"
+   ],
+   "webtitle": "www.taxi-krk.com",
+   "weburl": "http://www.taxi-krk.com"
+},
+ {
+   "id": 234,
+   "lan": "hr",
+   "name": "ABI d.o.o.",
+   "kategorija": [
+      "Auto servis i trgovina dijelovima",
+      "Moto servis i trgovina dijelovima"
+   ],
+   "adresa": {
+      "ulica": "M. Krleže 7",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 013"
+   ],
+   "mob": [
+      "+385 98 369 075"
+   ],
+   "fax": "+385 51 880 171",
+   "email": [
+      "info@abi.hr"
+   ]
+},
+ {
+   "id": 235,
+   "lan": "hr",
+   "name": "Auto Krk d.o.o.",
+   "kategorija": [
+      "Auto servis i trgovina dijelovima"
+   ],
+   "adresa": {
+      "ulica": "Zagrebačka bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 565"
+   ],
+   "mob": [],
+   "fax": "+385 51 222 560",
+   "email": [
+      "auto.krk@ri.t-com.hr"
+   ],
+   "webtitle": "www.autokrk.hr",
+   "weburl": "http://www.autokrk.hr"
+},
+ {
+   "id": 236,
+   "lan": "hr",
+   "name": "Auto Motor Krk",
+   "kategorija": [
+      "Auto servis i trgovina dijelovima"
+   ],
+   "content": "<p>Trgovina auto moto dijelovima</p>",
+   "adresa": {
+      "ulica": "J. Pupačića 7",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 823"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 237,
+   "lan": "hr",
+   "name": "Auto Motor Krk",
+   "kategorija": [
+      "Auto servis i trgovina dijelovima"
+   ],
+   "content": "<p>Servis</p>",
+   "adresa": {
+      "ulica": "S. Radića 13",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 090"
+   ],
+   "mob": [],
+   "email": [],
+   "webtitle": "www.automotor-krk.com",
+   "weburl": "http://www.automotor-krk.com"
+},
+ {
+   "id": 238,
+   "lan": "hr",
+   "name": "Auto ravnica",
+   "kategorija": [
+      "Auto servis i trgovina dijelovima"
+   ],
+   "adresa": {
+      "ulica": "Kornić 6",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [
+      "+385 51 851 118"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 239,
+   "lan": "hr",
+   "name": "Automehaničarski obrt Mega Vrh",
+   "kategorija": [
+      "Auto servis i trgovina dijelovima"
+   ],
+   "adresa": {
+      "ulica": "Vrh 6",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 377 435"
+   ],
+   "email": []
+},
+ {
+   "id": 240,
+   "lan": "hr",
+   "name": "Automehaničarski obrt Iva",
+   "kategorija": [
+      "Auto servis i trgovina dijelovima"
+   ],
+   "adresa": {
+      "ulica": "J. Pupačića 21",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 845"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 241,
+   "lan": "hr",
+   "name": "RMS",
+   "kategorija": [
+      "Auto servis i trgovina dijelovima",
+      "Oprema i servis za brodove"
+   ],
+   "adresa": {
+      "ulica": "Žgaljići 18",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 863 050"
+   ],
+   "mob": [
+      "+385 99 684 46 25"
+   ],
+   "email": [
+      "rms.servis@gmail.com"
+   ]
+},
+ {
+   "id": 242,
+   "lan": "hr",
+   "name": "Krk moto d.o.o.",
+   "kategorija": [
+      "Moto servis i trgovina dijelovima",
+      "Specijalizirane trgovine"
+   ],
+   "content": "<p>Strojevi i alati za uređenje okoliša, skuteri, električni skuteri, električne bicikle, moto oprema. KYMCO uvoznik.</p>",
+   "adresa": {
+      "ulica": "Stjepana Radića 28",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "telfax": "+385 51 222 921",
+   "email": [
+      "cro-futura@ri.t-com.hr"
+   ],
+   "webtitle": "www.krkmoto.hr",
+   "weburl": "http://www.krkmoto.hr"
+},
+ {
+   "id": 243,
+   "lan": "hr",
+   "name": "Autopraona Denis",
+   "kategorija": [
+      "Autopraona"
+   ],
+   "adresa": {
+      "ulica": "S. Radića 13",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 562 16 77"
+   ],
+   "email": []
+},
+ {
+   "id": 244,
+   "lan": "hr",
+   "name": "Autoškola Mixage Krk",
+   "kategorija": [
+      "Auto škola"
+   ],
+   "adresa": {
+      "ulica": "Šet. Sv. Bernardina 6c",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "telfax": "+385 51 222 305",
+   "email": [
+      "infomixage21@gmail.com"
+   ],
+   "webtitle": "www.autoskola-mixage.com",
+   "weburl": "http://www.autoskola-mixage.com"
+},
+ {
+   "id": 245,
+   "lan": "hr",
+   "name": "Ina",
+   "kategorija": [
+      "Benzinska crpka"
+   ],
+   "adresa": {
+      "ulica": "N. preporoda bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 4971 153"
+   ],
+   "email": [],
+   "webtitle": "www.ina.hr",
+   "weburl": "http://www.ina.hr"
+},
+ {
+   "id": 246,
+   "lan": "hr",
+   "name": "Ina",
+   "kategorija": [
+      "Benzinska crpka",
+      "Benzinska crpka za plovila"
+   ],
+   "adresa": {
+      "ulica": "Šet. Sv. Bernardina 8",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 4971 153"
+   ],
+   "email": [],
+   "webtitle": "www.ina.hr",
+   "weburl": "http://www.ina.hr"
+},
+ {
+   "id": 247,
+   "lan": "hr",
+   "name": "Adria oil",
+   "kategorija": [
+      "Benzinska crpka"
+   ],
+   "adresa": {
+      "ulica": "Picik 20, Valbiska",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "telfax": "+385 51 863 100",
+   "email": [
+      "info@adria-oil.com"
+   ],
+   "webtitle": "www.adriaoil.hr",
+   "weburl": "http://www.adriaoil.hr"
+},
+ {
+   "id": 248,
+   "lan": "hr",
+   "name": "Crno zlato d.o.o.",
+   "kategorija": [
+      "Benzinska crpka za plovila"
+   ],
+   "content": "<p>Pontonska benzinska crpka</p>",
+   "adresa": {
+      "ulica": "Luka Krk",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 249,
+   "lan": "hr",
+   "name": "Brodogradilište Krk d.o.o.",
+   "kategorija": [
+      "Oprema i servis za brodove",
+      "Zimovnik za plovila i kamp kućice"
+   ],
+   "content": "<p>Dizanje spuštanje plovila iz/u more</p>",
+   "adresa": {
+      "ulica": "Lukobran 10",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 045"
+   ],
+   "mob": [
+      "+385 99 563 80 36",
+      "+385 98 327 961"
+   ],
+   "fax": "+385 51 220 126",
+   "email": [
+      "dariodminic@yahoo.com",
+      "brodogradiliste.krk@optinet.hr"
+   ],
+   "webtitle": "www.brodogradiliste-krk.hr",
+   "weburl": "http://www.brodogradiliste-krk.hr"
+},
+ {
+   "id": 250,
+   "lan": "hr",
+   "name": "Brodska Elektronika d.o.o.",
+   "kategorija": [
+      "Oprema i servis za brodove"
+   ],
+   "content": "<p>(Marine Electronics Croatia)</p>",
+   "adresa": {
+      "ulica": "S. Nikolića 49",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 880 272"
+   ],
+   "mob": [],
+   "fax": "+385 51 880 273",
+   "email": [],
+   "webtitle": "www.brodska-elektronika.hr",
+   "weburl": "http://www.brodska-elektronika.hr"
+},
+ {
+   "id": 251,
+   "lan": "hr",
+   "name": "Marizo d.o.o.",
+   "kategorija": [
+      "Oprema i servis za brodove"
+   ],
+   "content": "<p>Servis brodskih i vanbrodskih motora</p>",
+   "adresa": {
+      "ulica": "Vršanska 26 E",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 555"
+   ],
+   "mob": [],
+   "fax": "+385 51 222 444",
+   "email": [
+      "marizo@ri.ht.hr"
+   ],
+   "webtitle": "www.marizo.hr",
+   "weburl": "http://www.marizo.hr"
+},
+ {
+   "id": 252,
+   "lan": "hr",
+   "name": "MM Box Marine",
+   "kategorija": [
+      "Oprema i servis za brodove"
+   ],
+   "adresa": {
+      "ulica": "Žgaljići 18",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 863 050"
+   ],
+   "mob": [
+      "+385 98 865 635"
+   ],
+   "email": [
+      "mmbox@email.t-com.hr"
+   ]
+},
+ {
+   "id": 253,
+   "lan": "hr",
+   "name": "Motomore",
+   "kategorija": [
+      "Oprema i servis za brodove"
+   ],
+   "adresa": {
+      "ulica": "M. Balote 14",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 409"
+   ],
+   "mob": [
+      "+385 98 369 487"
+   ],
+   "fax": "+385 51 880 733",
+   "email": [
+      "motomore@ri.t-com.hr"
+   ],
+   "webtitle": "www.motomore.hr",
+   "weburl": "http://www.motomore.hr"
+},
+ {
+   "id": 254,
+   "lan": "hr",
+   "name": "CB Yacht d.o.o.",
+   "kategorija": [
+      "Yacht servis"
+   ],
+   "adresa": {
+      "ulica": "Kvarnerska 21",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 95 588 55 66"
+   ],
+   "email": [
+      "info@croatia-broker.com"
+   ],
+   "webtitle": "www.croatia-broker.com",
+   "weburl": "http://www.croatia-broker.com"
+},
+ {
+   "id": 255,
+   "lan": "hr",
+   "name": "Lučka kapetanija Rijeka",
+   "kategorija": [
+      "Lučke službe"
+   ],
+   "content": "<p>Ispostava Krk</p>",
+   "adresa": {
+      "ulica": "Trg bana J. Jelačića 1b",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 380"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 256,
+   "lan": "hr",
+   "name": "Županijska Lučka Uprava Krk",
+   "kategorija": [
+      "Lučke službe"
+   ],
+   "adresa": {
+      "ulica": "Trg bana J. Jelačića 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 165"
+   ],
+   "mob": [],
+   "fax": "+385 51 880 072",
+   "email": [
+      "info@zluk.hr"
+   ],
+   "webtitle": "www.zluk.hr",
+   "weburl": "http://www.zluk.hr"
+},
+ {
+   "id": 257,
+   "lan": "hr",
+   "name": "Ponikve Krk",
+   "kategorija": [
+      "Punionica za električne automobile"
+   ],
+   "adresa": {
+      "ulica": "Vršanska 14",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 258,
+   "lan": "hr",
+   "name": "Krk centar",
+   "kategorija": [
+      "Punionica za električne automobile"
+   ],
+   "content": "<p>Ispod zgrade gradske uprave</p>",
+   "adresa": {
+      "ulica": "Šetalište Sv Bernardina 2",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 259,
+   "lan": "hr",
+   "name": "Depot Aquamarin Krk ",
+   "kategorija": [
+      "Zimovnik za plovila i kamp kućice"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 003"
+   ],
+   "mob": [
+      "+385 91 251 3643"
+   ],
+   "email": [
+      "aquamarinkrk@gmail.com"
+   ],
+   "webtitle": "www.aqumarin-krk.com",
+   "weburl": "http://www.aqumarin-krk.com"
+},
+ {
+   "id": 260,
+   "lan": "hr",
+   "name": "Marine Franolić",
+   "kategorija": [
+      "Zimovnik za plovila i kamp kućice"
+   ],
+   "adresa": {
+      "ulica": "Nenadići 26",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 327 686 (hr)",
+      "+385 98 996 82 50 (eng)",
+      "+385 99 510 84 93 (deu)"
+   ],
+   "email": [
+      "info@marine-franolic.com"
+   ],
+   "webtitle": "www.marine-franolic.com",
+   "weburl": "http://www.marine-franolic.com"
+},
+ {
+   "id": 261,
+   "lan": "hr",
+   "name": "MM Box Marine",
+   "kategorija": [
+      "Zimovnik za plovila i kamp kućice"
+   ],
+   "adresa": {
+      "ulica": "Žgaljići 18",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 863 050"
+   ],
+   "mob": [],
+   "email": [
+      "mmbox@email.t-com.hr"
+   ]
+},
+ {
+   "id": 262,
+   "lan": "hr",
+   "name": "Mediteraneo Krk ",
+   "kategorija": [
+      "Zimovnik za plovila i kamp kućice"
+   ],
+   "adresa": {
+      "ulica": "S. Radića bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 618 702"
+   ],
+   "mob": [
+      "+385 91 531 29 07"
+   ],
+   "email": [
+      "mediteraneokrk@gmail.com"
+   ],
+   "webtitle": "www.mediteraneo-krk.com",
+   "weburl": "http://www.mediteraneo-krk.com"
+},
+ {
+   "id": 263,
+   "lan": "hr",
+   "name": "Motomore",
+   "kategorija": [
+      "Zimovnik za plovila i kamp kućice"
+   ],
+   "adresa": {
+      "ulica": "M. Balote 14",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 409"
+   ],
+   "mob": [
+      "+385 98 369 487"
+   ],
+   "fax": "+385 51 880 733",
+   "email": [
+      "motomore@ri.t-com.hr"
+   ],
+   "webtitle": "www.motomore.hr",
+   "weburl": "http://www.motomore.hr"
+},
+ {
+   "id": 264,
+   "lan": "hr",
+   "name": "Ponikve Krk",
+   "kategorija": [
+      "Komunalne službe"
+   ],
+   "adresa": {
+      "ulica": "Vršanska 14",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 654 666"
+   ],
+   "mob": [],
+   "fax": "+385 51 654 602",
+   "email": [
+      "info@ponikve.hr"
+   ],
+   "webtitle": "www.ponikve.hr",
+   "weburl": "http://www.ponikve.hr"
+},
+ {
+   "id": 265,
+   "lan": "hr",
+   "name": "Vecla d.o.o.",
+   "kategorija": [
+      "Komunalne službe"
+   ],
+   "adresa": {
+      "ulica": "Lukobran 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 401 181"
+   ],
+   "mob": [
+      "+385 98 491 309"
+   ],
+   "fax": "+385 51 401 191",
+   "email": [
+      "vecla@vecla.hr"
+   ]
+},
+ {
+   "id": 266,
+   "lan": "hr",
+   "name": "Farmacia",
+   "kategorija": [
+      "Ljekarne"
+   ],
+   "adresa": {
+      "ulica": "Svetog Petra bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 880 821"
+   ],
+   "mob": [],
+   "fax": "+385 51 880 816",
+   "email": [],
+   "webtitle": "www.farmacia.hr",
+   "weburl": "http://www.farmacia.hr"
+},
+ {
+   "id": 267,
+   "lan": "hr",
+   "name": "Herba",
+   "kategorija": [
+      "Ljekarne"
+   ],
+   "adresa": {
+      "ulica": "Šet. Sv. Bernardina bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 049"
+   ],
+   "mob": [],
+   "fax": "+385 51 220 872",
+   "email": []
+},
+ {
+   "id": 268,
+   "lan": "hr",
+   "name": "Ljekarna Janeš Jelka",
+   "kategorija": [
+      "Ljekarne"
+   ],
+   "adresa": {
+      "ulica": "Vela placa 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 133"
+   ],
+   "mob": [
+      " "
+   ],
+   "email": []
+},
+ {
+   "id": 269,
+   "lan": "hr",
+   "name": "Dom zdravlja PGŽ",
+   "kategorija": [
+      "Medicinske usluge"
+   ],
+   "content": "<p>Ispostava Krk</p>",
+   "adresa": {
+      "ulica": "Vinogradska 2b",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 155"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 239",
+   "email": []
+},
+ {
+   "id": 270,
+   "lan": "hr",
+   "name": "Stomatološka ordinacija",
+   "kategorija": [
+      "Medicinske usluge"
+   ],
+   "content": "<p>Dr. Tonči Babić</p>",
+   "adresa": {
+      "ulica": "P. Žgaljića 12",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 032"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 271,
+   "lan": "hr",
+   "name": "Privatna stomatološka ordinacija",
+   "kategorija": [
+      "Medicinske usluge"
+   ],
+   "content": "<p>Dr. Karolina Kokić Borić, dr. med. dent</p>",
+   "adresa": {
+      "ulica": "I. Zajca 4",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 283"
+   ],
+   "mob": [
+      "+385 91 511 84 44"
+   ],
+   "email": [
+      "karolina.kokic@ri.t-com.hr",
+      "karolina.kokic.boric@gmail.com"
+   ],
+   "webtitle": "www.ordinacija-kokic-boric.hr",
+   "weburl": "http://www.ordinacija-kokic-boric.hr"
+},
+ {
+   "id": 272,
+   "lan": "hr",
+   "name": "Ordinacija dentalne medicine",
+   "kategorija": [
+      "Medicinske usluge"
+   ],
+   "content": "<p>Mr. sc. Karolina Magašić Panjako, dr. med. dent.</p>",
+   "adresa": {
+      "ulica": "Slavka Nikolića 34",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 401 653"
+   ],
+   "mob": [
+      "+385 98 170 90 22"
+   ],
+   "email": [
+      "karolinapanjako@gmail.com"
+   ],
+   "webtitle": "www.krkdent.com",
+   "weburl": "http://www.krkdent.com"
+},
+ {
+   "id": 273,
+   "lan": "hr",
+   "name": "Poliklinika Redial",
+   "kategorija": [
+      "Medicinske usluge"
+   ],
+   "content": "<p>Zdravstvena ustanova za hemodijalizu</p>",
+   "adresa": {
+      "ulica": "Poje 1",
+      "zip": 51513,
+      "mjesto": "Omišalj"
+   },
+   "tel": [],
+   "mob": [],
+   "telfax": "+385 51 841 896",
+   "email": [
+      "redial.hemodialysis.krk@gmail.com"
+   ],
+   "webtitle": "www.hemodialysis-krk.com",
+   "weburl": "http://www.hemodialysis-krk.com"
+},
+ {
+   "id": 274,
+   "lan": "hr",
+   "name": "Ghetaldus",
+   "kategorija": [
+      "Optike"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 17",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 207"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 275,
+   "lan": "hr",
+   "name": "Optometrija Krk",
+   "kategorija": [
+      "Optike"
+   ],
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina bb (Trgovački centar Trgovina Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 070"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 276,
+   "lan": "hr",
+   "name": "Shahini",
+   "kategorija": [
+      "Optike"
+   ],
+   "adresa": {
+      "ulica": "Vela placa 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 173"
+   ],
+   "mob": [
+      "+385 98 9000 843"
+   ],
+   "email": [
+      "optika.shahini@gmail.com",
+      "manka1980@hotmail.com"
+   ]
+},
+ {
+   "id": 277,
+   "lan": "hr",
+   "name": "Frizerski salon Valentina",
+   "kategorija": [
+      "Frizeri"
+   ],
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina 6/b (trgovački centar Trgovina Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 98 963 0003"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 278,
+   "lan": "hr",
+   "name": "Carmen",
+   "kategorija": [
+      "Frizeri"
+   ],
+   "content": "<p>Frizerski salon za muškarce</p>",
+   "adresa": {
+      "ulica": "Istarski prolaz 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 279,
+   "lan": "hr",
+   "name": "Dior",
+   "kategorija": [
+      "Frizeri"
+   ],
+   "adresa": {
+      "ulica": "Kralja Tomislava 4",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 174"
+   ],
+   "mob": [
+      "+385 98 175 74 32"
+   ],
+   "email": [
+      "sdraghic@inet.hr"
+   ]
+},
+ {
+   "id": 280,
+   "lan": "hr",
+   "name": "Diva",
+   "kategorija": [
+      "Frizeri"
+   ],
+   "adresa": {
+      "ulica": "N. U. Algarottia 13",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 963"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 281,
+   "lan": "hr",
+   "name": "Frizerski studio In",
+   "kategorija": [
+      "Frizeri"
+   ],
+   "adresa": {
+      "ulica": "Sv. Petra bb (supermarket Konzum)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 880 422"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 282,
+   "lan": "hr",
+   "name": "MM",
+   "kategorija": [
+      "Frizeri"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 33",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 798"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 283,
+   "lan": "hr",
+   "name": "Salon Paris",
+   "kategorija": [
+      "Frizeri"
+   ],
+   "adresa": {
+      "ulica": "Narodnog preporoda 61",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 174 56 61"
+   ],
+   "email": []
+},
+ {
+   "id": 284,
+   "lan": "hr",
+   "name": "Sensa",
+   "kategorija": [
+      "Frizeri"
+   ],
+   "adresa": {
+      "ulica": "A. Mahnića 17",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 546 961"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 285,
+   "lan": "hr",
+   "name": "Beauty salon Per Lei",
+   "kategorija": [
+      "Kozmetički saloni"
+   ],
+   "adresa": {
+      "ulica": "Sv. Petra bb (Super Konzum Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 5122 168"
+   ],
+   "email": []
+},
+ {
+   "id": 286,
+   "lan": "hr",
+   "name": "Demetra",
+   "kategorija": [
+      "Kozmetički saloni"
+   ],
+   "content": "<p>Estetski studio</p>",
+   "adresa": {
+      "ulica": "Partizanski put 1",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 513 47 70"
+   ],
+   "email": [
+      "demetra.kornic@gmail.com"
+   ],
+   "webtitle": "www.demetra-estetskistudio.hr",
+   "weburl": "http://www.demetra-estetskistudio.hr"
+},
+ {
+   "id": 287,
+   "lan": "hr",
+   "name": "La Belleza",
+   "kategorija": [
+      "Kozmetički saloni"
+   ],
+   "content": "<p>Salon ljepote</p>",
+   "adresa": {
+      "ulica": "Stjepana Radića 1b",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 91 1590 777"
+   ],
+   "email": [
+      "labelezza.salonljepote@gmail.com"
+   ],
+   "webtitle": "www.labelezza.hr",
+   "weburl": "http://www.labelezza.hr"
+},
+ {
+   "id": 288,
+   "lan": "hr",
+   "name": "Veterinarska ambulanta Krk",
+   "kategorija": [
+      "Veterinar"
+   ],
+   "adresa": {
+      "ulica": "Zagrebačka 53",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 604 484",
+      "+385 51 604 490"
+   ],
+   "mob": [
+      "+385 91 214 99 22"
+   ],
+   "fax": "+385 51 604 484",
+   "email": [
+      "ambulantakrk@vetstri.hr"
+   ]
+},
+ {
+   "id": 289,
+   "lan": "hr",
+   "name": "Konzum",
+   "kategorija": [
+      "Shoping"
+   ],
+   "content": "<p>Supermarket, kućne potrepštine</p>",
+   "adresa": {
+      "ulica": "Sv. Petar bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 867 555"
+   ],
+   "mob": [],
+   "fax": "+385 51 867 554",
+   "email": [],
+   "webtitle": "www.konzum.hr",
+   "weburl": "http://www.konzum.hr"
+},
+ {
+   "id": 290,
+   "lan": "hr",
+   "name": "Konzum",
+   "kategorija": [
+      "Shoping"
+   ],
+   "content": "<p>Supermarket, kućne potrepštine</p>",
+   "adresa": {
+      "ulica": "Stjepana Radića 1A",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 007"
+   ],
+   "mob": [],
+   "fax": "+385 51 880 007",
+   "email": [],
+   "webtitle": "www.konzum.hr",
+   "weburl": "http://www.konzum.hr"
+},
+ {
+   "id": 291,
+   "lan": "hr",
+   "name": "Lidl Hrvatska d.o.o.",
+   "kategorija": [
+      "Shoping"
+   ],
+   "adresa": {
+      "ulica": "Vršanska 18a",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 292,
+   "lan": "hr",
+   "name": "Plodine",
+   "kategorija": [
+      "Shoping"
+   ],
+   "content": "<p>Supermarket, kućne potrepštine</p>",
+   "adresa": {
+      "ulica": "Vršanska 28",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 298 701"
+   ],
+   "mob": [],
+   "fax": "+385 51 298 702",
+   "email": [],
+   "webtitle": "www.plodine.hr",
+   "weburl": "http://www.plodine.hr"
+},
+ {
+   "id": 293,
+   "lan": "hr",
+   "name": "Robna kuća Krk",
+   "kategorija": [
+      "Shoping"
+   ],
+   "content": "<p>Supermarket, trgovine odjećom, tekstilom, kućnim potrepštinama, bijela tehnika, papirnica</p>",
+   "adresa": {
+      "ulica": "Stjepana Radića bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 294,
+   "lan": "hr",
+   "name": "Trgovina Krk",
+   "kategorija": [
+      "Shoping"
+   ],
+   "content": "<p>Trgovački poslovni centar, supermarket, voćarna</p>",
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 940"
+   ],
+   "mob": [],
+   "email": [
+      "info@trgovina-krk.hr"
+   ],
+   "webtitle": "www.trgovina-krk.hr",
+   "weburl": "http://www.trgovina-krk.hr"
+},
+ {
+   "id": 295,
+   "lan": "hr",
+   "name": "Jadri Trade d.o.o.",
+   "kategorija": [
+      "Mesnice"
+   ],
+   "content": "<p>Jerković</p>",
+   "adresa": {
+      "ulica": "Šet. Sv. Bernardina bb (Trgovački centar Trgovina Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 291"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 296,
+   "lan": "hr",
+   "name": "Mesnica - market Žužić",
+   "kategorija": [
+      "Mesnice"
+   ],
+   "content": "<p>Isprobajte Krčki pršut</p>",
+   "adresa": {
+      "ulica": "Zagrebačka bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "telfax": "+385 51 222 138",
+   "email": [
+      "mesnica-market-zuzic@ri.t-com.hr"
+   ],
+   "webtitle": "www.kuca-krckog-prsuta.com",
+   "weburl": "http://www.kuca-krckog-prsuta.com"
+},
+ {
+   "id": 297,
+   "lan": "hr",
+   "name": "Perutnina Ptuj – Pipo",
+   "kategorija": [
+      "Mesnice"
+   ],
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 99 2689 007"
+   ],
+   "email": [],
+   "webtitle": "www.perutnina.com",
+   "weburl": "http://www.perutnina.com"
+},
+ {
+   "id": 298,
+   "lan": "hr",
+   "name": "Tonini d.o.o.",
+   "kategorija": [
+      "Ribarnice"
+   ],
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 299,
+   "lan": "hr",
+   "name": "Ribarnica",
+   "kategorija": [
+      "Ribarnice"
+   ],
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 300,
+   "lan": "hr",
+   "name": "Ribolovac",
+   "kategorija": [
+      "Sportska oprema / rekviziti"
+   ],
+   "content": "<p>Pribor za ribolov</p>",
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 092"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 301,
+   "lan": "hr",
+   "name": "Takamak",
+   "kategorija": [
+      "Sportska oprema / rekviziti"
+   ],
+   "content": "<p>Sportska odjeća i obuća</p>",
+   "adresa": {
+      "ulica": "J. J. Strossmayera bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 008"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 302,
+   "lan": "hr",
+   "name": "Dm – Drogerie Markt d.o.o",
+   "kategorija": [
+      "Specijalizirane trgovine"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 303,
+   "lan": "hr",
+   "name": "Pinel Krk d.o.o.",
+   "kategorija": [
+      "Specijalizirane trgovine"
+   ],
+   "content": "<p>Boje i lakovi, željezarija, alati i ostali pribor</p>",
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina bb (Trgovački centar Trgovina Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 951"
+   ],
+   "mob": [],
+   "fax": "+385 51 220 205",
+   "email": [
+      "info@pinel-krk.hr"
+   ],
+   "webtitle": "www.pinel-krk.hr",
+   "weburl": "http://www.pinel-krk.hr"
+},
+ {
+   "id": 304,
+   "lan": "hr",
+   "name": "Sat - Ive",
+   "kategorija": [
+      "Specijalizirane trgovine"
+   ],
+   "content": "<p>Elektronski uređaji i oprema</p>",
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina 6/b (Trgovački centar Trgovina Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 101"
+   ],
+   "mob": [
+      "+385 98 886 020"
+   ],
+   "email": [
+      "info@sat-ive.com"
+   ],
+   "webtitle": "www.sat-ive.com",
+   "weburl": "http://www.sat-ive.com"
+},
+ {
+   "id": 305,
+   "lan": "hr",
+   "name": "T.O. Elektrokrk",
+   "kategorija": [
+      "Specijalizirane trgovine"
+   ],
+   "content": "<p>Elektronski uređaji i oprema</p>",
+   "adresa": {
+      "ulica": "Stjepana Radića 1A (robna kuća Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 156"
+   ],
+   "mob": [],
+   "email": [
+      "elektrokrk@gmail.com"
+   ],
+   "webtitle": "www.elektrokrk.com",
+   "weburl": "http://www.elektrokrk.com"
+},
+ {
+   "id": 306,
+   "lan": "hr",
+   "name": "T.O. Elektrokrk",
+   "kategorija": [
+      "Specijalizirane trgovine"
+   ],
+   "content": "<p>Elektronski uređaji i oprema</p>",
+   "adresa": {
+      "ulica": "Sv. Petra bb (trgovački centar Super Konzum)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 580"
+   ],
+   "mob": [],
+   "fax": "+385 51 494 799",
+   "email": [
+      "elektrokrk@gmail.com"
+   ],
+   "webtitle": "www.elektrokrk.com",
+   "weburl": "http://www.elektrokrk.com"
+},
+ {
+   "id": 307,
+   "lan": "hr",
+   "name": "Trgovina Krk d.d. ",
+   "kategorija": [
+      "Specijalizirane trgovine"
+   ],
+   "content": "<p>Građevinski materijal i željezara</p>",
+   "adresa": {
+      "ulica": "Vršanska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 198"
+   ],
+   "mob": [],
+   "email": [],
+   "webtitle": "www.trgovina-krk.hr",
+   "weburl": "http://www.trgovina-krk.hr"
+},
+ {
+   "id": 308,
+   "lan": "hr",
+   "name": "Trgovina obućom Mateo d.o.o.",
+   "kategorija": [
+      "Specijalizirane trgovine"
+   ],
+   "content": "<p>Obuća</p>",
+   "adresa": {
+      "ulica": "J.J. Strossmayera 27",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 242"
+   ],
+   "mob": [],
+   "email": [
+      "info@camp-bor.hr"
+   ]
+},
+ {
+   "id": 309,
+   "lan": "hr",
+   "name": "Mina Krk",
+   "kategorija": [
+      "Vinarija"
+   ],
+   "adresa": {
+      "ulica": "J.J. Strossmayera 24",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 310,
+   "lan": "hr",
+   "name": "Tutti Frutti",
+   "kategorija": [
+      "Voće i povrće"
+   ],
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 311,
+   "lan": "hr",
+   "name": "Exclusive",
+   "kategorija": [
+      "Zlatarne"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 18b",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 662"
+   ],
+   "mob": [],
+   "fax": "+385 51 222 256",
+   "email": []
+},
+ {
+   "id": 312,
+   "lan": "hr",
+   "name": "Yuwelir",
+   "kategorija": [
+      "Zlatarne"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 4",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 256"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 313,
+   "lan": "hr",
+   "name": "Zlatarna Kristijano",
+   "kategorija": [
+      "Zlatarne"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 38",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 174"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 314,
+   "lan": "hr",
+   "name": "Zlatarna Michael Krk",
+   "kategorija": [
+      "Zlatarne"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": [
+      "zlatarna.michael.krk@gmail.com"
+   ]
+},
+ {
+   "id": 315,
+   "lan": "hr",
+   "name": "Zlatarna Michael Krk",
+   "kategorija": [
+      "Zlatarne"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 11",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 545"
+   ],
+   "mob": [],
+   "email": [
+      "zlatarna.michael.krk@gmail.com"
+   ]
+},
+ {
+   "id": 316,
+   "lan": "hr",
+   "name": "Zlatarna Oroshi 1958",
+   "kategorija": [
+      "Zlatarne"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 6",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 799"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 317,
+   "lan": "hr",
+   "name": "Zlatarsko - filigranski obrt ",
+   "kategorija": [
+      "Zlatarne"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 271"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 662",
+   "email": []
+},
+ {
+   "id": 318,
+   "lan": "hr",
+   "name": "Sv. Kvirin",
+   "kategorija": [
+      "Knjižara"
+   ],
+   "adresa": {
+      "ulica": "A.Mahnića 14",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 880 380"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 483",
+   "email": [
+      "trgovina.sv.kvirin@gmail.com"
+   ],
+   "webtitle": "www.biskupijakrk.hr",
+   "weburl": "http://www.biskupijakrk.hr"
+},
+ {
+   "id": 319,
+   "lan": "hr",
+   "name": "Cvjetarna Paola",
+   "kategorija": [
+      "Cvjetarna"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 635 900"
+   ],
+   "mob": [],
+   "email": [
+      "cvjetarna.paola@gmail.com"
+   ]
+},
+ {
+   "id": 320,
+   "lan": "hr",
+   "name": "Butterfly",
+   "kategorija": [
+      "Foto"
+   ],
+   "adresa": {
+      "ulica": "A. Mahnića bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 746"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 321,
+   "lan": "hr",
+   "name": "Foto & Video studio Brujo",
+   "kategorija": [
+      "Foto"
+   ],
+   "adresa": {
+      "ulica": "J. Pupačića 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 880 427"
+   ],
+   "mob": [
+      "+385 95 1984 830"
+   ],
+   "email": [
+      "brujo@bodul.com"
+   ],
+   "webtitle": "www.bodul.com",
+   "weburl": "http://www.bodul.com"
+},
+ {
+   "id": 322,
+   "lan": "hr",
+   "name": "Asterix",
+   "kategorija": [
+      "Mjenjačnice"
+   ],
+   "adresa": {
+      "ulica": "Vela placa 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 103"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 323,
+   "lan": "hr",
+   "name": "Asterix",
+   "kategorija": [
+      "Mjenjačnice"
+   ],
+   "adresa": {
+      "ulica": "Šet. Sv. Bernardina bb, (trgovački centar)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "telfax": "+385 51 220 134",
+   "email": []
+},
+ {
+   "id": 324,
+   "lan": "hr",
+   "name": "Tobacco",
+   "kategorija": [
+      "Mjenjačnice"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 10",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 325,
+   "lan": "hr",
+   "name": "Erste Bank",
+   "kategorija": [
+      "Banke"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića 1b",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 72 37 66 00"
+   ],
+   "mob": [],
+   "fax": "+385 72 37 6601",
+   "email": [],
+   "webtitle": "www.erstebank.hr",
+   "weburl": "http://www.erstebank.hr"
+},
+ {
+   "id": 326,
+   "lan": "hr",
+   "name": "Addiko Bank",
+   "kategorija": [
+      "Banke"
+   ],
+   "adresa": {
+      "ulica": "Vela placa 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 1 603 1715",
+      "+385 1 603 1716",
+      "+385 1 603 1701"
+   ],
+   "mob": [],
+   "fax": "+385 51 220 399",
+   "email": [],
+   "webtitle": "www.addiko.com",
+   "weburl": "http://www.addiko.com"
+},
+ {
+   "id": 327,
+   "lan": "hr",
+   "name": "PBZ d.d.",
+   "kategorija": [
+      "Banke"
+   ],
+   "adresa": {
+      "ulica": "Šet Sv. Bernardina bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 751 265"
+   ],
+   "mob": [],
+   "fax": "+385 51 520 055",
+   "email": []
+},
+ {
+   "id": 328,
+   "lan": "hr",
+   "name": "PBZ d.d.",
+   "kategorija": [
+      "Banke"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 751 311"
+   ],
+   "mob": [],
+   "fax": "+385 51 520 421",
+   "email": []
+},
+ {
+   "id": 329,
+   "lan": "hr",
+   "name": "Zagrebačka Banka",
+   "kategorija": [
+      "Banke"
+   ],
+   "adresa": {
+      "ulica": "Kralja Tomislava 2",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 353 925"
+   ],
+   "mob": [],
+   "email": [],
+   "webtitle": "www.zaba.hr",
+   "weburl": "http://www.zaba.hr"
+},
+ {
+   "id": 330,
+   "lan": "hr",
+   "name": "Erste Bank",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića 1b",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 331,
+   "lan": "hr",
+   "name": "Erste Bank",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Samostojeći kiosk kod Koprivića",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 332,
+   "lan": "hr",
+   "name": "Erste Bank",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Sv. Petra bb (Supermarket Konzum)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 333,
+   "lan": "hr",
+   "name": "Erste Bank",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Sv. Bernardina bb (Trgovački centar Trgovina Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 334,
+   "lan": "hr",
+   "name": "Euronet ATM Bankomat",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 335,
+   "lan": "hr",
+   "name": "Euronet ATM Bankomat",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Glavotok 4, (Camping Glavotok)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 336,
+   "lan": "hr",
+   "name": "Euronet ATM Bankomat",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Plavnička bb (camping Ježevac)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 337,
+   "lan": "hr",
+   "name": "Euronet ATM Bankomat",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Vlade Tomašića bb (Hotel Valamar Koralj)"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 338,
+   "lan": "hr",
+   "name": "HPB d.d.",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Bodulska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 339,
+   "lan": "hr",
+   "name": "HPB d.d.",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 10",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 340,
+   "lan": "hr",
+   "name": "Addiko Bank",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Vela placa 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 341,
+   "lan": "hr",
+   "name": "PBZ d.d.",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Sv. Bernardina bb (Trgovački centar Trgovina Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 342,
+   "lan": "hr",
+   "name": "PBZ d.d.",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića bb, (robna kuća)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 343,
+   "lan": "hr",
+   "name": "PBZ d.d.",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Sv. Petra bb (Supermarket Konzum)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 344,
+   "lan": "hr",
+   "name": "Raiffaisenbank",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Plavnička bb (camping Ježevac)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 345,
+   "lan": "hr",
+   "name": "Splitska Banka",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Vršanska 28 (supermarket Plodine)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 346,
+   "lan": "hr",
+   "name": "Zagrebačka Banka",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Šet. Sv. Bernardina (Trgovački centar Trgovina Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 347,
+   "lan": "hr",
+   "name": "Zagrebačka Banka",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Sv. Petra bb (supermarket Konzum)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 348,
+   "lan": "hr",
+   "name": "Zagrebačka Banka",
+   "kategorija": [
+      "Bankomati"
+   ],
+   "adresa": {
+      "ulica": "Kralja Tomislava 2",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 349,
+   "lan": "hr",
+   "name": "HP d.d.",
+   "kategorija": [
+      "Poštanski uredi"
+   ],
+   "content": "<p>Poštanski ured Krk</p>",
+   "adresa": {
+      "ulica": "Bodulska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 72 303 304"
+   ],
+   "mob": [],
+   "fax": "+385 51 525 853",
+   "email": [],
+   "webtitle": "www.posta.hr",
+   "weburl": "http://www.posta.hr"
+},
+ {
+   "id": 350,
+   "lan": "hr",
+   "name": "HP d.d.",
+   "kategorija": [
+      "Poštanski uredi"
+   ],
+   "content": "<p>Poštanski ured Kornić</p>",
+   "adresa": {
+      "ulica": "Ravnica bb",
+      "zip": 51517,
+      "mjesto": "Kornić"
+   },
+   "tel": [
+      "+385 51 851 200"
+   ],
+   "mob": [],
+   "fax": "+385 51 856 567",
+   "email": [],
+   "webtitle": "www.posta.hr",
+   "weburl": "http://www.posta.hr"
+},
+ {
+   "id": 351,
+   "lan": "hr",
+   "name": "T-Centar Krk",
+   "kategorija": [
+      "Telekomunikacijski centri"
+   ],
+   "adresa": {
+      "ulica": "Bodulska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 800 9100",
+      "+385 800 9088"
+   ],
+   "mob": [],
+   "email": [
+      "kontakt@t-com.hr"
+   ],
+   "webtitle": "www.t-com.hr",
+   "weburl": "http://www.t-com.hr"
+},
+ {
+   "id": 352,
+   "lan": "hr",
+   "name": "VIP Centar Krk",
+   "kategorija": [
+      "Telekomunikacijski centri"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 300"
+   ],
+   "mob": [],
+   "email": [],
+   "webtitle": "www.vipnet.hr",
+   "weburl": "http://www.vipnet.hr"
+},
+ {
+   "id": 353,
+   "lan": "hr",
+   "name": "Curicum Software ",
+   "kategorija": [
+      "Internet usluge, prodaja kompjuterske opreme"
+   ],
+   "content": "<p>Prodaja i servis računala</p>",
+   "adresa": {
+      "ulica": "Ivana Zajca 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 053"
+   ],
+   "mob": [
+      "+385 95 815 31 14"
+   ],
+   "fax": "+385 51 880 647",
+   "email": [
+      "info@curicum.com"
+   ],
+   "webtitle": "www.curicum.com",
+   "weburl": "http://www.curicum.com"
+},
+ {
+   "id": 354,
+   "lan": "hr",
+   "name": "Enigma",
+   "kategorija": [
+      "Internet usluge, prodaja kompjuterske opreme"
+   ],
+   "content": "<p>Internet cafe, prodaja i servis računala</p>",
+   "adresa": {
+      "ulica": "Šet. Sv. Bernardina bb (Trgovački centar Trgovina Krk)",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 300"
+   ],
+   "mob": [],
+   "email": [
+      "enigma@enigmasoft.hr"
+   ],
+   "webtitle": "www.enigmasoft.hr",
+   "weburl": "http://www.enigmasoft.hr"
+},
+ {
+   "id": 355,
+   "lan": "hr",
+   "name": "Frisd d.o.o.",
+   "kategorija": [
+      "Internet usluge, prodaja kompjuterske opreme"
+   ],
+   "content": "<p>Prodaja i servis računala</p>",
+   "adresa": {
+      "ulica": "Slavka Nikolića 49",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 880 377",
+      "+385 51 222 818"
+   ],
+   "mob": [
+      "+385 91 2222 818"
+   ],
+   "fax": "+385 51 494 780",
+   "email": [
+      "frisd@frisd.hr",
+      "servis@frisd.hr"
+   ],
+   "webtitle": "www.frisd.hr",
+   "weburl": "http://www.frisd.hr"
+},
+ {
+   "id": 356,
+   "lan": "hr",
+   "name": "Agencija za posredovanje nekretninama Terra Immobilien Krk",
+   "kategorija": [
+      "Agencija za nekretnine"
+   ],
+   "adresa": {
+      "ulica": "Stanka Vraza 3, 51500 Krk",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 858"
+   ],
+   "mob": [],
+   "fax": "+385 51 880 420",
+   "email": [
+      "info@terra-krk.com"
+   ],
+   "webtitle": "www.terra-krk.com",
+   "weburl": "http://www.terra-krk.com"
+},
+ {
+   "id": 357,
+   "lan": "hr",
+   "name": "Nekretnine Aurea d.o.o.",
+   "kategorija": [
+      "Agencija za nekretnine"
+   ],
+   "adresa": {
+      "ulica": "Vršanska 26 L",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 353"
+   ],
+   "mob": [
+      "+385 91 317 5280"
+   ],
+   "email": [
+      "info@nekretnineaurea.hr"
+   ],
+   "webtitle": "www.nekretnineaurea.hr",
+   "weburl": "http://www.nekretnineaurea.hr"
+},
+ {
+   "id": 358,
+   "lan": "hr",
+   "name": "BI - LANX Immobilien",
+   "kategorija": [
+      "Agencija za nekretnine"
+   ],
+   "adresa": {
+      "ulica": "Crikvenička 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 415"
+   ],
+   "mob": [
+      "+385 98 162 55 33",
+      "+385 98 327 345"
+   ],
+   "fax": "+385 51 221 370",
+   "email": [
+      "nenad.mrvos@ri.t-com.hr"
+   ],
+   "webtitle": "www.bi-lanx.hr",
+   "weburl": "http://www.bi-lanx.hr"
+},
+ {
+   "id": 359,
+   "lan": "hr",
+   "name": "Euro Immobilien",
+   "kategorija": [
+      "Agencija za nekretnine"
+   ],
+   "adresa": {
+      "ulica": "Vela placa 4",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 024"
+   ],
+   "mob": [
+      "+385 99 441 0000",
+      "+385 91 217 0010"
+   ],
+   "fax": "+385 51 880 280",
+   "email": [
+      "info@euro-immobilien.hr"
+   ],
+   "webtitle": "www.euro-immobilien.hr",
+   "weburl": "http://www.euro-immobilien.hr"
+},
+ {
+   "id": 360,
+   "lan": "hr",
+   "name": "Ideal Consulting",
+   "kategorija": [
+      "Agencija za nekretnine"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 12",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 215 203"
+   ],
+   "telfax": "+385 51 222 514",
+   "email": [
+      "idealconsulting@net.hr"
+   ]
+},
+ {
+   "id": 361,
+   "lan": "hr",
+   "name": "Olimpia d.o.o.",
+   "kategorija": [
+      "Agencija za nekretnine"
+   ],
+   "adresa": {
+      "ulica": "Vidikovac 35",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 781"
+   ],
+   "mob": [
+      "+385 95 510 80 52"
+   ],
+   "email": [
+      "olimpia.nekretnine@gmail.com"
+   ],
+   "webtitle": "www.olimpia.hr",
+   "weburl": "http://www.olimpia.hr"
+},
+ {
+   "id": 362,
+   "lan": "hr",
+   "name": "Prestige Real Estate Krk d.o.o.",
+   "kategorija": [
+      "Agencija za nekretnine"
+   ],
+   "adresa": {
+      "ulica": "Kralja Tomislava 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "firma": "PRESTIGE S d.o.o.",
+   "tel": [
+      "+385 51 403 350"
+   ],
+   "mob": [
+      "+385 91 528 9096",
+      "+385 91 601 6111"
+   ],
+   "fax": "+385 51 437 959",
+   "email": [
+      "info@prestige-nekretnine.com"
+   ],
+   "webtitle": "www.prestige-nekretnine.com",
+   "weburl": "http://www.prestige-nekretnine.com"
+},
+ {
+   "id": 363,
+   "lan": "hr",
+   "name": "SAK d.o.o.",
+   "kategorija": [
+      "Agencija za nekretnine"
+   ],
+   "adresa": {
+      "ulica": "Vrbnička 30",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 258 185"
+   ],
+   "telfax": "+385 51 221 196",
+   "email": [
+      "info@sak.hr"
+   ],
+   "webtitle": "www.sak.hr",
+   "weburl": "http://www.sak.hr"
+},
+ {
+   "id": 364,
+   "lan": "hr",
+   "name": "TIM AMD Krk",
+   "kategorija": [
+      "Agencija za nekretnine"
+   ],
+   "adresa": {
+      "ulica": "Plavnička 17",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 475"
+   ],
+   "mob": [
+      "+385 91 215 58 44"
+   ],
+   "email": [
+      "info@tim-amd.hr"
+   ],
+   "webtitle": "www.tim-amd.hr",
+   "weburl": "http://www.tim-amd.hr"
+},
+ {
+   "id": 365,
+   "lan": "hr",
+   "name": "Clean Krk servis za čišćenje",
+   "kategorija": [
+      "Upravljanje i održavanje nekretnina"
+   ],
+   "adresa": {
+      "ulica": "Linardići 3b, Linardići",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 95 519 8992"
+   ],
+   "email": [
+      "clean-krk@citius.hr"
+   ]
+},
+ {
+   "id": 366,
+   "lan": "hr",
+   "name": "MAR-KAT",
+   "kategorija": [
+      "Upravljanje i održavanje nekretnina"
+   ],
+   "adresa": {
+      "ulica": "Bodulska 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 843 222"
+   ],
+   "mob": [
+      "+385 91 578 44 55",
+      "+385 98 939 2027"
+   ],
+   "fax": "+385 51 604 251",
+   "email": [
+      "mar-kat@ri.t-com.hr",
+      "markatkrk@gmail.com"
+   ],
+   "webtitle": "www.mar-kat.hr",
+   "weburl": "http://www.mar-kat.hr"
+},
+ {
+   "id": 367,
+   "lan": "hr",
+   "name": "M - Upravljanje d.o.o.",
+   "kategorija": [
+      "Upravljanje i održavanje nekretnina"
+   ],
+   "adresa": {
+      "ulica": "Vršanska 26/L",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 604 119"
+   ],
+   "mob": [],
+   "email": [
+      "info@m-upravljanje.hr"
+   ],
+   "webtitle": "www.m-upravljanje.hr",
+   "weburl": "http://www.m-upravljanje.hr"
+},
+ {
+   "id": 368,
+   "lan": "hr",
+   "name": "Putzko obrt za usluge",
+   "kategorija": [
+      "Upravljanje i održavanje nekretnina"
+   ],
+   "content": "<p>Čišćenje i održavanje</p>",
+   "adresa": {
+      "ulica": "Linardići 42 b, Linardići",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 99 3092 355"
+   ],
+   "email": [
+      "jele.janes@gmail.com"
+   ]
+},
+ {
+   "id": 369,
+   "lan": "hr",
+   "name": "Allianz Zagreb d.d.",
+   "kategorija": [
+      "Osiguranja"
+   ],
+   "content": "<p>Zastupstvo Krk</p>",
+   "adresa": {
+      "ulica": "Šetalište Sv. Bernardina bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 566"
+   ],
+   "mob": [],
+   "fax": "+385 51 880 600",
+   "email": [],
+   "webtitle": "www.allianz.hr",
+   "weburl": "http://www.allianz.hr"
+},
+ {
+   "id": 370,
+   "lan": "hr",
+   "name": "Croatia Osiguranje- Croatia Agent Krk d.o.o.",
+   "kategorija": [
+      "Osiguranja"
+   ],
+   "adresa": {
+      "ulica": "Trg bana Jelačića bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 345"
+   ],
+   "mob": [],
+   "fax": "+385 51 88 04 70",
+   "email": [
+      "info@crosig.hr",
+      "croatiaagentkrk@crosig.hr"
+   ],
+   "webtitle": "www.crosig.hr",
+   "weburl": "http://www.crosig.hr"
+},
+ {
+   "id": 371,
+   "lan": "hr",
+   "name": "Euroherc osiguranje d.d.",
+   "kategorija": [
+      "Osiguranja"
+   ],
+   "content": "<p>Zastupstvo Krk</p>",
+   "adresa": {
+      "ulica": "Slavka Nikolića bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 494 752"
+   ],
+   "mob": [],
+   "telfax": "+385 51 520 161",
+   "fax": "+385 51 494 753",
+   "email": [],
+   "webtitle": "www.euroherc.hr",
+   "weburl": "http://www.euroherc.hr"
+},
+ {
+   "id": 372,
+   "lan": "hr",
+   "name": "Grawe Hrvatska d.d.",
+   "kategorija": [
+      "Osiguranja"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića 28",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 236"
+   ],
+   "mob": [],
+   "fax": "+385 51 520 362",
+   "email": [
+      "info@grawe.hr"
+   ]
+},
+ {
+   "id": 373,
+   "lan": "hr",
+   "name": "Merkur osiguranje",
+   "kategorija": [
+      "Osiguranja"
+   ],
+   "adresa": {
+      "ulica": "Vršanska 26 L",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 858 107"
+   ],
+   "mob": [],
+   "fax": "+385 51 858 431",
+   "email": [
+      "krk@merkur.hr"
+   ],
+   "webtitle": "www.merkur.hr",
+   "weburl": "http://www.merkur.hr"
+},
+ {
+   "id": 374,
+   "lan": "hr",
+   "name": "Triglav osiguranje d.d.",
+   "kategorija": [
+      "Osiguranja"
+   ],
+   "adresa": {
+      "ulica": "Stjepana Radića 28",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 520 863"
+   ],
+   "mob": [],
+   "fax": "+385 51 520 862",
+   "email": [],
+   "webtitle": "www.triglav.hr",
+   "weburl": "http://www.triglav.hr"
+},
+ {
+   "id": 375,
+   "lan": "hr",
+   "name": "Lea i Leon",
+   "kategorija": [
+      "Krojač"
+   ],
+   "adresa": {
+      "ulica": "J. Pupačića 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [
+      "+385 98 958 27 33"
+   ],
+   "telfax": "+385 51 520 609",
+   "email": [
+      "lea-i-leon@inet.hr"
+   ]
+},
+ {
+   "id": 376,
+   "lan": "hr",
+   "name": "Obućar Krk",
+   "kategorija": [
+      "Obućar"
+   ],
+   "adresa": {
+      "ulica": "Vela placa 4",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 377,
+   "lan": "hr",
+   "name": "Urarski obrt Krk",
+   "kategorija": [
+      "Urar"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 797"
+   ],
+   "mob": [],
+   "email": []
+},
+ {
+   "id": 378,
+   "lan": "hr",
+   "name": "Studio Superior",
+   "kategorija": [
+      "Kemijska čistionica"
+   ],
+   "adresa": {
+      "ulica": "Vršanska 26l",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 331"
+   ],
+   "mob": [],
+   "fax": "+385 51 880 058",
+   "email": [
+      "studio.superior@ri.t-com.hr",
+      "info@studio-superior.com"
+   ],
+   "webtitle": "www.studio-superior.com",
+   "weburl": "http://www.studio-superior.com"
+},
+ {
+   "id": 379,
+   "lan": "hr",
+   "name": "Gradska Knjižnica Krk",
+   "kategorija": [
+      "Knjižnica"
+   ],
+   "adresa": {
+      "ulica": "Kvarnerska 23",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 149"
+   ],
+   "mob": [],
+   "email": [
+      "info@gk-krk.hr"
+   ],
+   "webtitle": "www.gk-krk.hr",
+   "weburl": "http://www.gk-krk.hr"
+},
+ {
+   "id": 380,
+   "lan": "hr",
+   "name": "Centar za kulturu Grada Krka",
+   "kategorija": [
+      "Gradske službe"
+   ],
+   "adresa": {
+      "ulica": "Trg Sv. Kvirina 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 041"
+   ],
+   "mob": [],
+   "email": [
+      "kultura@gradkrk.net"
+   ]
+},
+ {
+   "id": 381,
+   "lan": "hr",
+   "name": "Ministarstvo Turizma samostalni sektor turističke inspekcije",
+   "kategorija": [
+      "Gradske službe"
+   ],
+   "content": "<p>Područna jedinica Rijeka. Služba turističke inspekcije. Ispostava Krk</p>",
+   "adresa": {
+      "ulica": "Lukobran 5",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 686 575"
+   ],
+   "mob": [],
+   "fax": "+385 51 686 576",
+   "email": []
+},
+ {
+   "id": 382,
+   "lan": "hr",
+   "name": "Grad Krk",
+   "kategorija": [
+      "Gradske službe"
+   ],
+   "adresa": {
+      "ulica": "Trg bana J. Jelačića 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 401 111"
+   ],
+   "mob": [],
+   "fax": "+385 51 401 151",
+   "email": [
+      "grad-krk@ri.t-com.hr"
+   ],
+   "webtitle": "www.grad-krk.hr",
+   "weburl": "http://www.grad-krk.hr"
+},
+ {
+   "id": 383,
+   "lan": "hr",
+   "name": "Hrvatski zavod za zdravstveno osiguranje",
+   "kategorija": [
+      "Gradske službe"
+   ],
+   "content": "<p>Ispostava Krk</p>",
+   "adresa": {
+      "ulica": "Bodulska bb",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 037"
+   ],
+   "mob": [],
+   "fax": "+385 51 222 247",
+   "email": []
+},
+ {
+   "id": 384,
+   "lan": "hr",
+   "name": "Ured Državne Uprave u Primorsko Goranskoj Županiji",
+   "kategorija": [
+      "Gradske službe"
+   ],
+   "content": "<p>Ispostava Krk</p>",
+   "adresa": {
+      "ulica": "Trg Bana Jelačića 3",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 354 354"
+   ],
+   "mob": [],
+   "fax": "+385 51 354 357",
+   "email": [
+      "ispostava.krk@udu-pgz.hr"
+   ],
+   "webtitle": "www.udu-pgz.hr",
+   "weburl": "http://www.udu-pgz.hr"
+},
+ {
+   "id": 385,
+   "lan": "hr",
+   "name": "Infopunkt",
+   "kategorija": [
+      "Turistički uredi"
+   ],
+   "content": "<p>Zračna luka Rijeka</p>",
+   "adresa": {
+      "ulica": "Hamec 1",
+      "zip": 51513,
+      "mjesto": "Omišalj"
+   },
+   "tel": [
+      "+385 51 841 865"
+   ],
+   "mob": [],
+   "fax": "+385 51 841 892",
+   "email": [
+      "infopunkt@krk.hr"
+   ]
+},
+ {
+   "id": 386,
+   "lan": "hr",
+   "name": "Turistički Informativni Centar",
+   "kategorija": [
+      "Turistički uredi"
+   ],
+   "adresa": {
+      "ulica": "J. J. Strossmayera 9",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 220 226"
+   ],
+   "mob": [],
+   "email": [
+      "tz-krk@hi.t-com.hr",
+      "tic@tz-krk.hr"
+   ]
+},
+ {
+   "id": 387,
+   "lan": "hr",
+   "name": "Turistička zajednica Grada Krka",
+   "kategorija": [
+      "Turistički uredi"
+   ],
+   "adresa": {
+      "ulica": "Vela placa 1/1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [],
+   "mob": [],
+   "telfax": "+385 51 221 414",
+   "email": [
+      "tz@tz-krk.hr"
+   ],
+   "webtitle": "www.tz-krk.hr",
+   "weburl": "http://www.tz-krk.hr"
+},
+ {
+   "id": 388,
+   "lan": "hr",
+   "name": "Turistička zajednica Otoka Krka",
+   "kategorija": [
+      "Turistički uredi"
+   ],
+   "adresa": {
+      "ulica": "Trg Sv. Kvirina 1",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 221 359"
+   ],
+   "mob": [],
+   "fax": "+385 51 222 336",
+   "email": [
+      "tz-otoka-krka@ri.t-com.hr"
+   ],
+   "webtitle": "www.krk.hr",
+   "weburl": "http://www.krk.hr"
+},
+ {
+   "id": 389,
+   "lan": "hr",
+   "name": "dr. Anton Mohr",
+   "kategorija": [
+      "Sudski tumači"
+   ],
+   "content": "<p>Sudski tumač za njemački jezik</p>",
+   "adresa": {
+      "ulica": "Matije Gupca 9",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 230"
+   ],
+   "mob": [
+      "+385 98 314 694"
+   ],
+   "email": [
+      "anton.mohr@ri.t-com.hr"
+   ]
+},
+ {
+   "id": 390,
+   "lan": "hr",
+   "name": "Endre Molnar Gabor",
+   "kategorija": [
+      "Sudski tumači"
+   ],
+   "content": "<p>Sudski tumač mađarski jezik</p>",
+   "adresa": {
+      "ulica": "Brzac 97",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 862 153"
+   ],
+   "mob": [
+      "+385 91 20 20 855"
+   ],
+   "fax": "+385 51 880 186",
+   "email": [
+      "endrea.molnar@gmail.com"
+   ]
+},
+ {
+   "id": 391,
+   "lan": "hr",
+   "name": "Župni ured Krk",
+   "kategorija": [
+      "Župni ured"
+   ],
+   "adresa": {
+      "ulica": "Dr. D. Vitezića 6",
+      "zip": 51500,
+      "mjesto": "Krk"
+   },
+   "tel": [
+      "+385 51 222 202"
+   ],
+   "mob": [],
+   "fax": "+385 51 221 341",
+   "email": [
+      "zupa.krk@post.t-com.hr"
+   ],
+   "webtitle": "www.biskupijakrk.hr",
+   "weburl": "http://www.biskupijakrk.hr"
+}
+]
