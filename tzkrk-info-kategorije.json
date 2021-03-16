@@ -1,0 +1,504 @@
+{
+"results": [
+ {
+   "grupa": "Što vidjeti",
+   "podgrupa": "",
+   "kategorija": "Spomenik kulture"
+ },
+ {
+   "grupa": "Što vidjeti",
+   "podgrupa": "",
+   "kategorija": "Muzej"
+ },
+ {
+   "grupa": "Što vidjeti",
+   "podgrupa": "",
+   "kategorija": "Izložbeni prostor"
+ },
+ {
+   "grupa": "Što vidjeti",
+   "podgrupa": "",
+   "kategorija": "Galerija, suvenirnica"
+ },
+ {
+   "grupa": "Što vidjeti",
+   "podgrupa": "",
+   "kategorija": "Akvarij"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "",
+   "kategorija": "Rent a bike"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "",
+   "kategorija": "Izlet brodom"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "",
+   "kategorija": "Izlet polupodmornicom"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "",
+   "kategorija": "Rent a boat, Taxi boat"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Ronjenje",
+   "kategorija": "Ronilački klub"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Ronjenje",
+   "kategorija": "Ronilački centar"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "",
+   "kategorija": "Centar za morsku bilogiju"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Sport",
+   "kategorija": "Teniski teren"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Sport",
+   "kategorija": "Odbojka na pijesku"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Sport",
+   "kategorija": "Fitnes centar"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Sport",
+   "kategorija": "Jedrenje"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Sport",
+   "kategorija": "Nogomet"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Sport",
+   "kategorija": "Stolni tenis"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Sport",
+   "kategorija": "Karting"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Sport",
+   "kategorija": "Kayak"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Sport",
+   "kategorija": "Paintball"
+ },
+ {
+   "grupa": "Aktivan odmor",
+   "podgrupa": "Sport",
+   "kategorija": "Wakeboard"
+ },
+ {
+   "grupa": "Gastronomija",
+   "podgrupa": "",
+   "kategorija": "Lokalni proizvodi"
+ },
+ {
+   "grupa": "Gastronomija",
+   "podgrupa": "",
+   "kategorija": "Domaći proizvodi OPG"
+ },
+ {
+   "grupa": "Gastronomija",
+   "podgrupa": "",
+   "kategorija": "Restoran"
+ },
+ {
+   "grupa": "Gastronomija",
+   "podgrupa": "",
+   "kategorija": "Konoba, pizzeria, bistro"
+ },
+ {
+   "grupa": "Gastronomija",
+   "podgrupa": "",
+   "kategorija": "Slastičarna"
+ },
+ {
+   "grupa": "Gastronomija",
+   "podgrupa": "",
+   "kategorija": "Caffe bar"
+ },
+ {
+   "grupa": "Zabava",
+   "podgrupa": "",
+   "kategorija": "Noćna zabava"
+ },
+ {
+   "grupa": "Plaže",
+   "podgrupa": "",
+   "kategorija": "Javna gradska plaža"
+ },
+ {
+   "grupa": "Plaže",
+   "podgrupa": "",
+   "kategorija": "Plaža za pse"
+ },
+ {
+   "grupa": "Plaže",
+   "podgrupa": "",
+   "kategorija": "Naturistička plaža"
+ },
+ {
+   "grupa": "Gdje odsjesti",
+   "podgrupa": "",
+   "kategorija": "Hotel"
+ },
+ {
+   "grupa": "Gdje odsjesti",
+   "podgrupa": "",
+   "kategorija": "Kamp"
+ },
+ {
+   "grupa": "Gdje odsjesti",
+   "podgrupa": "",
+   "kategorija": "Turiostička agencija, privatni smještaj"
+ },
+ {
+   "grupa": "Gdje odsjesti",
+   "podgrupa": "",
+   "kategorija": "Pansion"
+ },
+ {
+   "grupa": "Gdje odsjesti",
+   "podgrupa": "",
+   "kategorija": "Agro turizam"
+ },
+ {
+   "grupa": "Gdje odsjesti",
+   "podgrupa": "",
+   "kategorija": "Hostel"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Hitna služba"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Zračna luka"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Autobusni kolodvor"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Trajektni prijevoz"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Krčki most"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Hrvatske željeznice"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Vučna služba"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Rent a car"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Rent a bug"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Rent a bike"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Rent a scooter"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Taxi"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Krk City Tour"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Auto servis i trgovina dijelovima"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Moto servis i trgovina dijelovima"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Autopraona"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Auto škola"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Benzinska crpka"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Benzinska crpka za plovila"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Oprema i servis za brodove"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Yacht servis"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Lučke službe"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Zimovnik za plovila i kamp kućice"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Komunalne službe"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Ljekarne"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Medicinske usluge"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Optike"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Frizeri"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Saloni za masažu"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Kozmetički saloni"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Veterinar"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Shoping"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Mesnice"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Ribarnice"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Sportska oprema / rekviziti"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Specijalizirane trgovine"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Vinarija"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Voće i povrće"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Zlatarne"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Knjižara"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Cvjetarna"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Gift Shop"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Foto"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Mjenjačnice"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Banke"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Bankomati"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Poštanski uredi"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Telekomunikacijski centri"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Internet usluge, prodaja kompjuterske opreme"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Agencija za nekretnine"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Upravljanje i održavanje nekretnina"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Osiguranja"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Krojač"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Obućar"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Urar"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Kemijska čistionica"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Knjižnica"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Gradske službe"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Turistički uredi"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Sudski tumači"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Župni ured"
+ },
+ {
+   "grupa": "Korisne informacije",
+   "podgrupa": "",
+   "kategorija": "Punionica za električne automobile"
+ }
+]
+}
